@@ -1,0 +1,32 @@
+---
+title: "Reproducibilitea Sheffield Reboot"
+date: "2023-07-27"
+categories: [reproducibilitea, reproducibility, sheffield]
+image: https://i.pinimg.com/originals/bf/ab/0a/bfab0acb4ef0ab8edb7863bcfddd0a7c.jpg
+from: markdown+emoji
+toc: true
+toc-depth: 4
+toc-location: right
+execute:
+  code_fold: true
+  code_link: true
+  code_tools: true
+  fig-cap-location: top
+  tbl-cap-location: top
+  warning: false
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/Reproducibilitea-Sheffield
+      rel: me
+    - icon: mastodon
+      text: Mastodon
+      href: https://fosstodon.org/@reproducibilitea-sheffield
+      rel: me
+---
+
+Reproducibilitea Sheffield is back!
+
+This site will hold details of up-coming

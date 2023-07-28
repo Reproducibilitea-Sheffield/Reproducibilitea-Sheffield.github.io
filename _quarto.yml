@@ -1,0 +1,20 @@
+project:
+  type: website
+
+website:
+  title: "Reproducibilitea Sheffield"
+  site-url: https://Reproducibilitea-Sheffield.github.io/
+  description: "Details about the Sheffield Reproducibilitea Journal Club"
+  navbar:
+    right:
+      - about.qmd
+      - links.qmd
+      - icon: github
+        href: https://github.com/Reproducibilitea-Sheffield
+      - icon: rss
+        href: index.xml
+        rel: me
+format:
+  html:
+    theme: vapor
+    css: styles.css

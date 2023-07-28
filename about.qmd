@@ -1,0 +1,24 @@
+---
+title: "About"
+image: img/reproducibiliTea_logo.jpg
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/Reproducibilitea-Sheffield
+      rel: me
+    - icon: mastodon
+      text: Mastodon
+      href: https://fosstodon.org/@reproducibilitea-sheffield
+      rel: me
+---
+
+Welcome to the Reproducibilitea Sheffield Blog. This site details up-coming journal clubs and summaries of the
+discussions held at previous Journal Clubs. We aim to hold one Journal Club roughly every month where a topical paper on
+Open Research will be discussed, it would be great if people are able to read the paper before hand and note down what
+they liked and disliked about it and topics for discussion, but if you haven't time don't worry, a brief summary will be
+given at the start.
+
+To find out more about these journal clubs please visit the [ReproducibiliTea - Journal Clubs for Open
+Science](https://reproducibilitea.org/) website.

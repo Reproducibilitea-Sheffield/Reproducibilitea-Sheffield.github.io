@@ -1,0 +1,68 @@
+---
+title: "Links"
+image: img/links.jpg
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/Reproducibilitea-Sheffield
+      rel: me
+    - icon: mastodon
+      text: Mastodon
+      href: https://fosstodon.org/@reproducibilitea-sheffield
+      rel: me
+---
+
+Useful sites, if you have suggestions please [get in touch](mailto:reproducibilitea@sheffield.ac.uk), you may also wish
+to join the [Reproducibilitea Sheffield Mailing List](https://groups.google.com/a/sheffield.ac.uk/g/reproducibilitea).
+
+## Suggested Articles
+
+There is a dedicated Zotero library for Reproducibilitea Journal Clubs. You can add articles that fit the remit or
+search for articles to discuss. Find out more [here](https://reproducibilitea.org/zotero-group) and browse articles [here](https://www.zotero.org/groups/2354006/reproducibilitea?).
+
+### Suggested Reading
+
++ [Easing Into Open Science: A Guide for Graduate Students and Their
+  Advisors](https://online.ucpress.edu/collabra/article/7/1/18684/115927/Easing-Into-Open-Science-A-Guide-for-Graduate)
+
+## Open Research University of Sheffield
+
++ [Open Research Training Portal](https://sites.google.com/sheffield.ac.uk/openresearchtrainingportal/useful-resources)
++ [Open Scholarship Community Sheffield](https://osc-international.com/osc-sheffield)
++ [Research Software Engineering (RSE)](https://rse.shef.ac.uk/)
+
+## Open Science
+
++ [Center for Open Science](https://www.cos.io/blog/cos-celebrates-10-years)
++ [Open Science Framework](https://osf.io)
++ [Octopus | Built for Researchers](https://www.octopus.ac/)
+
+### Guides
+
++ [ROSiE General Guidelines on Responsible Open
+  Science](https://rosie-project.eu/two-important-milestones-of-the-rosie-project-are-now-available/)
++ [Open Science : A Practical Guide for Early-Career Researchers](https://zenodo.org/record/7716153#.ZFzsHuxByLp)
+
+## Open Software
+
++ [Journal of Open Source Software](https://joss.theoj.org/)
+
+
+## Open Data
+
++ [FAIR Principles](https://www.force11.org/group/fairgroup/fairprinciples)
+
+## Open Peer Review
+
++ [F1000](https://f1000research.com/)
++ [Octopus](https://www.octopus.ac/)
+
+## Learning Resources
+
++ [The Carpentries](https://carpentries.org/)
+  + [Data Carpentry](https://datacarpentry.org/)
+  + [Library Carpentry](https://librarycarpentry.org/)
+  + [Software Carpentry](https://software-carpentry.org/)
++ [Programming Historian](https://programminghistorian.org)
