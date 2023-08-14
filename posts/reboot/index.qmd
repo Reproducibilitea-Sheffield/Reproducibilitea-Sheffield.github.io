@@ -1,6 +1,6 @@
 ---
 title: "Reproducibilitea Sheffield Reboot"
-date: "2023-07-27"
+date: "2023-08-14"
 categories: [reproducibilitea, reproducibility, sheffield]
 image: https://i.pinimg.com/originals/bf/ab/0a/bfab0acb4ef0ab8edb7863bcfddd0a7c.jpg
 from: markdown+emoji
@@ -29,4 +29,8 @@ about:
 
 Reproducibilitea Sheffield is back!
 
-This site will hold details of up-coming
+This site will hold details of up-coming Journal Clubs and provides links to useful resources.
+
+To stay abreast of up-coming events you can either sign up to the [mailing
+list](https://groups.google.com/a/sheffield.ac.uk/g/reproducibilitea) or subscribe to the [RSS
+feed](https://reproducibilitea-sheffield.github.io/index.xml).
