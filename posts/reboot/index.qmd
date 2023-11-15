@@ -14,17 +14,6 @@ execute:
   fig-cap-location: top
   tbl-cap-location: top
   warning: false
-about:
-  template: jolla
-  links:
-    - icon: github
-      text: Github
-      href: https://github.com/Reproducibilitea-Sheffield
-      rel: me
-    - icon: mastodon
-      text: Mastodon
-      href: https://fosstodon.org/@reproducibilitea-sheffield
-      rel: me
 ---
 
 Reproducibilitea Sheffield is back!

@@ -21,6 +21,13 @@ sharing the room view.
 It is important that a calendar event is created and that a Google Meet link is included. Once created HTML for sharing
 the calendar event can be copy and pasted into the web-page that is created for the site and included in the mailing lists.
 
+## Web Page
+
+The [Reproducibilitea Sheffield Website](https://reproducibilitea-sheffield.github.io/) is a blog written in
+[Quarto](https://quarto.org). The [front-page of this
+repository](https://github.com/reproducibilitea-sheffield/reproducibilitea-sheffield.github.io) contains useful
+information on how to make a new post.
+
 ## Announcements
 
 Over time more places for announcing the event to will be added.
@@ -42,10 +49,12 @@ Please check off tasks as complete and fill in fields with details for reference
       Group](https://www.zotero.org/groups/2354006/reproducibilitea/library)).
   + **Paper** : [<TITLE>](<URL>)
 + [ ] Create new web-page detailing paper.
+  + [ ] Include a [OpenStreetMap](https://openstreetmap.org) link to the building location.
 + [ ] Create Google Calendar event with room details and link to web-page.
   + **Calendar Link** :
 + [ ] Announce to mailing lists...
   + [ ] [reproducibilitea-googlegroup@sheffield.ac.uk](mailto:reproducibilitea-googlegroup@sheffield.ac.uk)
   + [ ] [rse@sheffield.ac.uk](mailto:rse@sheffield.ac.uk)
   + [ ] Sheffield Hallam contact [Eddy Verban](mailto:E.Verbaan@shu.ac.uk) and [Pete Smith](mailto:P.R.Smith@shu.ac.uk)
-  + [ ] Add Postgraduate mailing lists.
+  + [ ] [myannouncement-students](https://staff.sheffield.ac.uk/marketing-comms/guidance/myannouncement-students) (see
+        the non-essential messaging section).

@@ -1,0 +1,63 @@
+---
+title: "Reproducibilitea 2023-12-06"
+date: "2023-12-06"
+categories: [reproducibilitea, reproducibility, sheffield]
+image: https://the-turing-way.netlify.app/_images/reproducibility.jpg
+from: markdown+emoji
+toc: true
+toc-depth: 4
+toc-location: right
+execute:
+  code_fold: true
+  code_link: true
+  code_tools: true
+  fig-cap-location: top
+  tbl-cap-location: top
+  warning: false
+---
+
+
+![The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)](https://the-turing-way.netlify.app/_images/reproducibility.jpg)
+
+## What
+
+The chosen article to that we review and discuss is a recent publication _Nature Human Behaviour_
+
++ Protzko, J., Krosnick, J., Nelson, L. et al. High replicability of newly discovered social-behavioural findings is
+  achievable. Nat Hum Behav (2023). [doi : 10.1038/s41562-023-01749-9](https://doi.org/10.1038/s41562-023-01749-9)
+
+> Failures to replicate evidence of new discoveries have forced scientists to ask whether this unreliability is due to
+> suboptimal implementation of methods or whether presumptively optimal methods are not, in fact, optimal. This paper
+> reports an investigation by four coordinated laboratories of the prospective replicability of 16 novel experimental
+> findings using rigour-enhancing practices: confirmatory tests, large sample sizes, preregistration and methodological
+> transparency. In contrast to past systematic replication efforts that reported replication rates averaging 50%,
+> replication attempts here produced the expected effects with significance testing (P < 0.05) in 86% of attempts,
+> slightly exceeding the maximum expected replicability based on observed effect sizes and sample sizes. When one lab
+> attempted to replicate an effect discovered by another lab, the effect size in the replications was 97% that in the
+> original study. This high replication rate justifies confidence in rigour-enhancing methods to increase the
+> replicability of new discoveries.
+
+Neil Shephard (Research Software Engineer at University of Sheffield) will give a brief summary of the article and will
+open discussion by highlighting some of the points he thought were good/bad about the paper.
+
+
+## Where
+
+This event will be hybrid, if you wish to attend in person we will be meeting in Workroom 2 of [The Diamond, 32
+Leavygreave Road, Sheffield, Broomhall, S3 7RD](https://www.openstreetmap.org/#map=19/53.38172/-1.48222).
+
+Add the event to your Google Calendar using this
+[link](https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=MjU3NmE5dWlpbHUydTQ0Y2YzOWFzYmdkM2ggbi5zaGVwaGFyZEBzaGVmZmllbGQuYWMudWs&amp;tmsrc=n.shephard%40sheffield.ac.uk).
+
+If you aren't able to attend in person but would like to join the Journal Club you can do so using [Google
+Meet](https://meet.google.com/ehu-zapk-awt).
+
+## When
+
+2023-12-06 @ 13:15 Sheffield Reproducibilitea Journal Club is back in time to see 2023 out.
+
+## Future Events
+
+To stay abreast of up-coming events you can either sign up to the [mailing
+list](https://groups.google.com/a/sheffield.ac.uk/g/reproducibilitea) or subscribe to the [RSS
+feed](https://reproducibilitea-sheffield.github.io/index.xml).
