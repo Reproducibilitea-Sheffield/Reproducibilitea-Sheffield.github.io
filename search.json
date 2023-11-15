@@ -7,6 +7,13 @@
     "text": "Reproducibilitea Sheffield is back!\nThis site will hold details of up-coming Journal Clubs and provides links to useful resources.\nTo stay abreast of up-coming events you can either sign up to the mailing list or subscribe to the RSS feed."
   },
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Welcome to the Reproducibilitea Sheffield Blog. This site details up-coming journal clubs and summaries of the discussions held at previous Journal Clubs. We aim to hold one Journal Club roughly every month where a topical paper on Open Research will be discussed, it would be great if people are able to read the paper before hand and note down what they liked and disliked about it and topics for discussion, but if you haven’t time don’t worry, a brief summary will be given at the start.\nTo find out more about these journal clubs please visit the ReproducibiliTea - Journal Clubs for Open Science website."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Reproducibilitea-Sheffield.github.io",
@@ -68,12 +75,5 @@
     "title": "Links",
     "section": "Learning Resources",
     "text": "Learning Resources\n\nThe Carpentries\n\nData Carpentry\nLibrary Carpentry\nSoftware Carpentry\n\nProgramming Historian"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Welcome to the Reproducibilitea Sheffield Blog. This site details up-coming journal clubs and summaries of the discussions held at previous Journal Clubs. We aim to hold one Journal Club roughly every month where a topical paper on Open Research will be discussed, it would be great if people are able to read the paper before hand and note down what they liked and disliked about it and topics for discussion, but if you haven’t time don’t worry, a brief summary will be given at the start.\nTo find out more about these journal clubs please visit the ReproducibiliTea - Journal Clubs for Open Science website."
   }
 ]
