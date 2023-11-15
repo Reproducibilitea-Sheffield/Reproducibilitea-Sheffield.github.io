@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://Reproducibilitea-Sheffield.github.io/posts/reboot/index.html</loc>
-    <lastmod>2023-11-15T14:59:01.346Z</lastmod>
-  </url>
-  <url>
-    <loc>https://Reproducibilitea-Sheffield.github.io/about.html</loc>
-    <lastmod>2023-11-15T14:59:00.806Z</lastmod>
-  </url>
-  <url>
-    <loc>https://Reproducibilitea-Sheffield.github.io/index.html</loc>
-    <lastmod>2023-11-15T14:59:00.274Z</lastmod>
+    <loc>https://Reproducibilitea-Sheffield.github.io/posts/2023-12/index.html</loc>
+    <lastmod>2023-11-15T22:11:53.610Z</lastmod>
   </url>
   <url>
     <loc>https://Reproducibilitea-Sheffield.github.io/links.html</loc>
-    <lastmod>2023-11-15T14:59:01.094Z</lastmod>
+    <lastmod>2023-11-15T22:11:53.082Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Reproducibilitea-Sheffield.github.io/index.html</loc>
+    <lastmod>2023-11-15T22:11:52.242Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Reproducibilitea-Sheffield.github.io/about.html</loc>
+    <lastmod>2023-11-15T22:11:52.778Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Reproducibilitea-Sheffield.github.io/posts/reboot/index.html</loc>
+    <lastmod>2023-11-15T22:11:53.326Z</lastmod>
   </url>
 </urlset>

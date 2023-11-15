@@ -1,24 +1,38 @@
 [
   {
-    "objectID": "posts/reboot/index.html",
-    "href": "posts/reboot/index.html",
-    "title": "Reproducibilitea Sheffield Reboot",
+    "objectID": "posts/2023-12/index.html",
+    "href": "posts/2023-12/index.html",
+    "title": "Reproducibilitea 2023-12-06",
     "section": "",
-    "text": "Reproducibilitea Sheffield is back!\nThis site will hold details of up-coming Journal Clubs and provides links to useful resources.\nTo stay abreast of up-coming events you can either sign up to the mailing list or subscribe to the RSS feed."
+    "text": "The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Welcome to the Reproducibilitea Sheffield Blog. This site details up-coming journal clubs and summaries of the discussions held at previous Journal Clubs. We aim to hold one Journal Club roughly every month where a topical paper on Open Research will be discussed, it would be great if people are able to read the paper before hand and note down what they liked and disliked about it and topics for discussion, but if you haven’t time don’t worry, a brief summary will be given at the start.\nTo find out more about these journal clubs please visit the ReproducibiliTea - Journal Clubs for Open Science website."
+    "objectID": "posts/2023-12/index.html#what",
+    "href": "posts/2023-12/index.html#what",
+    "title": "Reproducibilitea 2023-12-06",
+    "section": "What",
+    "text": "What\nThe chosen article to that we review and discuss is a recent publication Nature Human Behaviour\n\nProtzko, J., Krosnick, J., Nelson, L. et al. High replicability of newly discovered social-behavioural findings is achievable. Nat Hum Behav (2023). doi : 10.1038/s41562-023-01749-9\n\n\nFailures to replicate evidence of new discoveries have forced scientists to ask whether this unreliability is due to suboptimal implementation of methods or whether presumptively optimal methods are not, in fact, optimal. This paper reports an investigation by four coordinated laboratories of the prospective replicability of 16 novel experimental findings using rigour-enhancing practices: confirmatory tests, large sample sizes, preregistration and methodological transparency. In contrast to past systematic replication efforts that reported replication rates averaging 50%, replication attempts here produced the expected effects with significance testing (P &lt; 0.05) in 86% of attempts, slightly exceeding the maximum expected replicability based on observed effect sizes and sample sizes. When one lab attempted to replicate an effect discovered by another lab, the effect size in the replications was 97% that in the original study. This high replication rate justifies confidence in rigour-enhancing methods to increase the replicability of new discoveries.\n\nNeil Shephard (Research Software Engineer at University of Sheffield) will give a brief summary of the article and will open discussion by highlighting some of the points he thought were good/bad about the paper."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Reproducibilitea-Sheffield.github.io",
-    "section": "",
-    "text": "Reproducibilitea Sheffield Reboot\n\n\n\n\n\n\n\nreproducibilitea\n\n\nreproducibility\n\n\nsheffield\n\n\n\n\n\n\n\n\n\n\n\nAug 14, 2023\n\n\n\n\n\n\nNo matching items"
+    "objectID": "posts/2023-12/index.html#where",
+    "href": "posts/2023-12/index.html#where",
+    "title": "Reproducibilitea 2023-12-06",
+    "section": "Where",
+    "text": "Where\nThis event will be hybrid, if you wish to attend in person we will be meeting in Workroom 2 of The Diamond, 32 Leavygreave Road, Sheffield, Broomhall, S3 7RD.\nAdd the event to your Google Calendar using this link.\nIf you aren’t able to attend in person but would like to join the Journal Club you can do so using Google Meet."
+  },
+  {
+    "objectID": "posts/2023-12/index.html#when",
+    "href": "posts/2023-12/index.html#when",
+    "title": "Reproducibilitea 2023-12-06",
+    "section": "When",
+    "text": "When\n2023-12-06 @ 13:15 Sheffield Reproducibilitea Journal Club is back in time to see 2023 out."
+  },
+  {
+    "objectID": "posts/2023-12/index.html#future-events",
+    "href": "posts/2023-12/index.html#future-events",
+    "title": "Reproducibilitea 2023-12-06",
+    "section": "Future Events",
+    "text": "Future Events\nTo stay abreast of up-coming events you can either sign up to the mailing list or subscribe to the RSS feed."
   },
   {
     "objectID": "links.html",
@@ -75,5 +89,26 @@
     "title": "Links",
     "section": "Learning Resources",
     "text": "Learning Resources\n\nThe Carpentries\n\nData Carpentry\nLibrary Carpentry\nSoftware Carpentry\n\nProgramming Historian"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Reproducibilitea-Sheffield.github.io",
+    "section": "",
+    "text": "Reproducibilitea 2023-12-06\n\n\n\n\n\n\n\nreproducibilitea\n\n\nreproducibility\n\n\nsheffield\n\n\n\n\n\n\n\n\n\n\n\nDec 6, 2023\n\n\n\n\n\n\n  \n\n\n\n\nReproducibilitea Sheffield Reboot\n\n\n\n\n\n\n\nreproducibilitea\n\n\nreproducibility\n\n\nsheffield\n\n\n\n\n\n\n\n\n\n\n\nAug 14, 2023\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Welcome to the Reproducibilitea Sheffield Blog. This site details up-coming journal clubs and summaries of the discussions held at previous Journal Clubs. We aim to hold one Journal Club roughly every month where a topical paper on Open Research will be discussed, it would be great if people are able to read the paper before hand and note down what they liked and disliked about it and topics for discussion, but if you haven’t time don’t worry, a brief summary will be given at the start.\nTo find out more about these journal clubs please visit the ReproducibiliTea - Journal Clubs for Open Science website."
+  },
+  {
+    "objectID": "posts/reboot/index.html",
+    "href": "posts/reboot/index.html",
+    "title": "Reproducibilitea Sheffield Reboot",
+    "section": "",
+    "text": "Reproducibilitea Sheffield is back!\nThis site will hold details of up-coming Journal Clubs and provides links to useful resources.\nTo stay abreast of up-coming events you can either sign up to the mailing list or subscribe to the RSS feed."
   }
 ]

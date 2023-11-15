@@ -10,14 +10,69 @@
 <atom:link href="https://Reproducibilitea-Sheffield.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>Details about the Sheffield Reproducibilitea Journal Club</description>
 <generator>quarto-1.3.450</generator>
-<lastBuildDate>Mon, 14 Aug 2023 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 06 Dec 2023 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Reproducibilitea 2023-12-06</title>
+  <link>https://Reproducibilitea-Sheffield.github.io/posts/2023-12/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://Reproducibilitea-Sheffield.github.io/posts/2023-12/https:/the-turing-way.netlify.app/_images/reproducibility.jpg" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: <a href="https://doi.org/10.5281/zenodo.3332807">10.5281/zenodo.3332807</a></figcaption>
+</figure>
+</div>
+<section id="what" class="level2">
+<h2 class="anchored" data-anchor-id="what">What</h2>
+<p>The chosen article to that we review and discuss is a recent publication <em>Nature Human Behaviour</em></p>
+<ul>
+<li>Protzko, J., Krosnick, J., Nelson, L. et al.&nbsp;High replicability of newly discovered social-behavioural findings is achievable. Nat Hum Behav (2023). <a href="https://doi.org/10.1038/s41562-023-01749-9">doi : 10.1038/s41562-023-01749-9</a></li>
+</ul>
+<blockquote class="blockquote">
+<p>Failures to replicate evidence of new discoveries have forced scientists to ask whether this unreliability is due to suboptimal implementation of methods or whether presumptively optimal methods are not, in fact, optimal. This paper reports an investigation by four coordinated laboratories of the prospective replicability of 16 novel experimental findings using rigour-enhancing practices: confirmatory tests, large sample sizes, preregistration and methodological transparency. In contrast to past systematic replication efforts that reported replication rates averaging 50%, replication attempts here produced the expected effects with significance testing (P &lt; 0.05) in 86% of attempts, slightly exceeding the maximum expected replicability based on observed effect sizes and sample sizes. When one lab attempted to replicate an effect discovered by another lab, the effect size in the replications was 97% that in the original study. This high replication rate justifies confidence in rigour-enhancing methods to increase the replicability of new discoveries.</p>
+</blockquote>
+<p>Neil Shephard (Research Software Engineer at University of Sheffield) will give a brief summary of the article and will open discussion by highlighting some of the points he thought were good/bad about the paper.</p>
+</section>
+<section id="where" class="level2">
+<h2 class="anchored" data-anchor-id="where">Where</h2>
+<p>This event will be hybrid, if you wish to attend in person we will be meeting in Workroom 2 of <a href="https://www.openstreetmap.org/#map=19/53.38172/-1.48222">The Diamond, 32 Leavygreave Road, Sheffield, Broomhall, S3 7RD</a>.</p>
+<p>Add the event to your Google Calendar using this <a href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=MjU3NmE5dWlpbHUydTQ0Y2YzOWFzYmdkM2ggbi5zaGVwaGFyZEBzaGVmZmllbGQuYWMudWs&amp;tmsrc=n.shephard%40sheffield.ac.uk">link</a>.</p>
+<p>If you aren’t able to attend in person but would like to join the Journal Club you can do so using <a href="https://meet.google.com/ehu-zapk-awt">Google Meet</a>.</p>
+</section>
+<section id="when" class="level2">
+<h2 class="anchored" data-anchor-id="when">When</h2>
+<p>2023-12-06 @ 13:15 Sheffield Reproducibilitea Journal Club is back in time to see 2023 out.</p>
+</section>
+<section id="future-events" class="level2">
+<h2 class="anchored" data-anchor-id="future-events">Future Events</h2>
+<p>To stay abreast of up-coming events you can either sign up to the <a href="https://groups.google.com/a/sheffield.ac.uk/g/reproducibilitea">mailing list</a> or subscribe to the <a href="https://reproducibilitea-sheffield.github.io/index.xml">RSS feed</a>.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>reproducibilitea</category>
+  <category>reproducibility</category>
+  <category>sheffield</category>
+  <guid>https://Reproducibilitea-Sheffield.github.io/posts/2023-12/index.html</guid>
+  <pubDate>Wed, 06 Dec 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://the-turing-way.netlify.app/_images/reproducibility.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Reproducibilitea Sheffield Reboot</title>
   <link>https://Reproducibilitea-Sheffield.github.io/posts/reboot/index.html</link>
   <description><![CDATA[ 
+
+
+
+
 <p>Reproducibilitea Sheffield is back!</p>
 <p>This site will hold details of up-coming Journal Clubs and provides links to useful resources.</p>
 <p>To stay abreast of up-coming events you can either sign up to the <a href="https://groups.google.com/a/sheffield.ac.uk/g/reproducibilitea">mailing list</a> or subscribe to the <a href="https://reproducibilitea-sheffield.github.io/index.xml">RSS feed</a>.</p>
+
 
 
  ]]></description>
