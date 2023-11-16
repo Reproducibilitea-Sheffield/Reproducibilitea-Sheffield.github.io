@@ -52,6 +52,9 @@ Please check off tasks as complete and fill in fields with details for reference
   + [ ] Include a [OpenStreetMap](https://openstreetmap.org) link to the building location.
 + [ ] Create Google Calendar event with room details and link to web-page.
   + **Calendar Link** :
++ [ ] Create Event and News item on [OSC Sheffield](https://osc-international.com/osc-sheffield/)
+  + [ ] **Event** : [CALENDAR EVENT](<URL>)
+  + [ ] **News** : [NEWS EVENT](<URL>)
 + [ ] Announce to mailing lists...
   + [ ] [reproducibilitea-googlegroup@sheffield.ac.uk](mailto:reproducibilitea-googlegroup@sheffield.ac.uk)
   + [ ] [rse@sheffield.ac.uk](mailto:rse@sheffield.ac.uk)
