@@ -49,7 +49,6 @@ search for articles to discuss. Find out more [here](https://reproducibilitea.or
 
 + [Journal of Open Source Software](https://joss.theoj.org/)
 
-
 ## Open Data
 
 + [FAIR Principles](https://www.force11.org/group/fairgroup/fairprinciples)
