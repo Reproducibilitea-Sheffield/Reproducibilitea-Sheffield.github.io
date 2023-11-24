@@ -3,7 +3,6 @@
 This repository is the source code for the [Reproducibilitea Sheffield](https://Reproducibilitea-Sheffield.github.io)
 website.
 
-
 ## Creating a new Post
 
 Typically you will have [booked a room](https://sites.google.com/sheffield.ac.uk/pooledroomdirectory/home) to hold the
@@ -53,6 +52,26 @@ Trying to stick with the Open Source theme, links to building locations can be p
 [OpenStreetMap](https://www.openstreetmap.org). Navigate, via zooming in, to the location of the building and
 right-click on the map and select "_Center map here_" and you can then copy the URL ("_Ctrl + l_" followed by "_Ctrl +
 c_" in most browsers) and paste that into the web-page you are creating.
+
+### pre-commit
+
+This repository uses [pre-commit](https://pre-commit.com) to check files and link Markdown using
+[markdownlint-cli2](https://github.com/DavidAnson/markdownlint-cli2). If you are unfamiliar with Git Hooks and
+pre-commit a useful article is [Pre-Commit : Protecting your future self](https://ns-rse.github.io/posts/pre-commit/)
+(there are [subsequent posts on pre-commit](https://ns-rse.github.io/index.html#category=pre-commit)). Ideally you would
+install `pre-commit` locally using the included `.pre-commit-configy.yaml` and `.markdownlint-cli2.yaml` files and
+address issues before committing. If you don't do this locally the code will be checked when Pull Requests are made
+using [pre-commit.ci](https://pre-commit.ci). Where possible fixes will be made automatically but sometimes the linters
+can't fix all errors that they find. If this is the case the log-file from the linked check will explain what changes
+need to be made.
+
+## Meeting Setup
+
+There is an [issue
+   template](https://github.com/Reproducibilitea-Sheffield/Reproducibilitea-Sheffield.github.io/issues/new?assignees=&labels=meetings&projects=&template=meeting_setup.md&title=Prepare+session+on+%5BYYYY-MM-DD+HH%3Amm%5D+for+%5BLEAD+NAME%5D)
+for setting up new meetings that details all of the tasks that are required for setting up a Journal Club and
+advertising it. Where possible fill in details at creation time and tick off items (to tick of an item in Markdown put
+in `x` in the square brackets, i.e. `[x]`).
 
 ## Links
 
