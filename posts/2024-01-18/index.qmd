@@ -1,0 +1,66 @@
+---
+title: "Reproducibilitea 2023-12-06"
+date: "2024-01-18"
+categories: [reproducibilitea, reproducibility, sheffield]
+image: https://the-turing-way.netlify.app/_images/research-compendium.svg
+from: markdown+emoji
+toc: true
+toc-depth: 4
+toc-location: right
+execute:
+  code_fold: true
+  code_link: true
+  code_tools: true
+  fig-cap-location: top
+  tbl-cap-location: top
+  warning: false
+---
+
+
+![The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)](https://the-turing-way.netlify.app/_images/research-compendium.svg)
+
+## What
+
+The chosen article to that we will review and discuss is an essay from _The Journal of Electronic Publishing_
+
++ Pooley J. Surveillance Publishing _The Journal of Electronic Publishing_ (2022). [doi :
+  10.3998/jep.1874](https://doi.org/10.3998/jep.1874)
+
+> This essay develops the idea of surveillance publishing, with special attention to the example of Elsevier. A
+> scholarly publisher can be defined as a surveillance publisher if it derives a substantial proportion of its revenue
+> from prediction products, fueled by data extracted from researcher behavior. The essay begins by tracing the Google
+> search engine’s roots in bibliometrics, alongside a history of the citation analysis company that became, in 2016,
+> Clarivate. The essay develops the idea of surveillance publishing by engaging with the work of Shoshana Zuboff, Jathan
+> Sadowski, Mariano-Florentino Cuéllar, and Aziz Huq. The recent history of Elsevier is traced to describe the company’s
+> research-lifecycle data-harvesting strategy, with the aim to develop and sell prediction products to unviersity and
+> other customers. The essay concludes by considering some of the potential costs of surveillance publishing, as other
+> big commercial publishers increasingly enter the predictive-analytics business. It is likely, I argue, that windfall
+> subscription-and-APC profits in Elsevier’s “legacy” publishing business have financed its decade-long acquisition
+> binge in analytics. The products’ purpose, moreover, is to streamline the top-down assessment and evaluation practices
+> that have taken hold in recent decades. A final concern is that scholars will internalize an analytics mindset, one
+> already encouraged by citation counts and impact factors.
+
+Adam Partridge (Open Research Training Lead / ELIXIR-UK DaSH Fellow at University of Sheffield) will give a brief
+summary of the article and will open discussion by highlighting some of the points he thought were good/bad about the
+paper.
+
+## Where
+
+This event will be hybrid, if you wish to attend in person we will be meeting in Meeting Room 1 of [The Diamond, 32
+Leavygreave Road, Sheffield, Broomhall, S3 7RD](https://www.openstreetmap.org/#map=19/53.38172/-1.48222).
+
+Add the event to your Google Calendar using this
+[link](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MnV2YmI4OGdtYjhwaDBuaWkyMWUwaGNrbTkgbi5zaGVwaGFyZEBzaGVmZmllbGQuYWMudWs&tmsrc=n.shephard%40sheffield.ac.uk).
+
+If you aren't able to attend in person but would like to join the Journal Club you can do so using [Google
+Meet](https://meet.google.com/ira-xqvm-qpt).
+
+## When
+
+2024-01-18 @ 12:00
+
+## Future Events
+
+To stay abreast of up-coming events you can either sign up to the [mailing
+list](https://groups.google.com/a/sheffield.ac.uk/g/reproducibilitea) or subscribe to the [RSS
+feed](https://reproducibilitea-sheffield.github.io/index.xml).
