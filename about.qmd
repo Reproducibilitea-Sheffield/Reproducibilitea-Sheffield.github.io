@@ -14,6 +14,8 @@ about:
       rel: me
 ---
 
+::: {style="text-align: left;"}
+
 Welcome to the Reproducibilitea Sheffield Blog. This site details up-coming journal clubs and summaries of the
 discussions held at previous Journal Clubs. We aim to hold one Journal Club roughly every month where a topical paper on
 Open Research will be discussed, it would be great if people are able to read the paper before hand and note down what
@@ -22,3 +24,5 @@ given at the start.
 
 To find out more about these journal clubs please visit the [ReproducibiliTea - Journal Clubs for Open
 Science](https://reproducibilitea.org/) website.
+
+:::

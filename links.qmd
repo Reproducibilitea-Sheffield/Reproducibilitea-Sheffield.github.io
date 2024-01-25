@@ -14,6 +14,8 @@ about:
       rel: me
 ---
 
+::: {style="text-align: left;"}
+
 Useful sites, if you have suggestions please [get in touch](mailto:reproducibilitea@sheffield.ac.uk), you may also wish
 to join the [Reproducibilitea Sheffield Mailing List](https://groups.google.com/a/sheffield.ac.uk/g/reproducibilitea).
 
@@ -65,3 +67,5 @@ search for articles to discuss. Find out more [here](https://reproducibilitea.or
   + [Library Carpentry](https://librarycarpentry.org/)
   + [Software Carpentry](https://software-carpentry.org/)
 + [Programming Historian](https://programminghistorian.org)
+
+:::
