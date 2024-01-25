@@ -6,23 +6,24 @@
       version="2.0">
 <channel>
 <title>Reproducibilitea Sheffield</title>
-<link>https://Reproducibilitea-Sheffield.github.io/index.html</link>
+<link>https://Reproducibilitea-Sheffield.github.io/</link>
 <atom:link href="https://Reproducibilitea-Sheffield.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>Details about the Sheffield Reproducibilitea Journal Club</description>
-<generator>quarto-1.3.450</generator>
+<generator>quarto-1.4.549</generator>
 <lastBuildDate>Thu, 18 Jan 2024 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Reproducibilitea 2024-01-18</title>
-  <link>https://Reproducibilitea-Sheffield.github.io/posts/2024-01-18/index.html</link>
+  <link>https://Reproducibilitea-Sheffield.github.io/posts/2024-01-18/</link>
   <description><![CDATA[ 
+
 
 
 
 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://Reproducibilitea-Sheffield.github.io/posts/2024-01-18/https:/the-turing-way.netlify.app/_images/research-compendium.svg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: <a href="https://doi.org/10.5281/zenodo.3332807">10.5281/zenodo.3332807</a></figcaption>
+<p><img src="https://the-turing-way.netlify.app/_images/research-compendium.svg" class="img-fluid figure-img"></p>
+<figcaption>The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: <a href="https://doi.org/10.5281/zenodo.3332807">10.5281/zenodo.3332807</a></figcaption>
 </figure>
 </div>
 <section id="what" class="level2">
@@ -57,22 +58,23 @@
   <category>reproducibilitea</category>
   <category>reproducibility</category>
   <category>sheffield</category>
-  <guid>https://Reproducibilitea-Sheffield.github.io/posts/2024-01-18/index.html</guid>
+  <guid>https://Reproducibilitea-Sheffield.github.io/posts/2024-01-18/</guid>
   <pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
   <media:content url="https://the-turing-way.netlify.app/_images/research-compendium.svg" medium="image" type="image/svg+xml"/>
 </item>
 <item>
   <title>Reproducibilitea 2023-12-06</title>
-  <link>https://Reproducibilitea-Sheffield.github.io/posts/2023-12/index.html</link>
+  <link>https://Reproducibilitea-Sheffield.github.io/posts/2023-12/</link>
   <description><![CDATA[ 
+
 
 
 
 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://Reproducibilitea-Sheffield.github.io/posts/2023-12/https:/the-turing-way.netlify.app/_images/reproducibility.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: <a href="https://doi.org/10.5281/zenodo.3332807">10.5281/zenodo.3332807</a></figcaption>
+<p><img src="https://the-turing-way.netlify.app/_images/reproducibility.jpg" class="img-fluid figure-img"></p>
+<figcaption>The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: <a href="https://doi.org/10.5281/zenodo.3332807">10.5281/zenodo.3332807</a></figcaption>
 </figure>
 </div>
 <section id="what" class="level2">
@@ -107,14 +109,15 @@
   <category>reproducibilitea</category>
   <category>reproducibility</category>
   <category>sheffield</category>
-  <guid>https://Reproducibilitea-Sheffield.github.io/posts/2023-12/index.html</guid>
+  <guid>https://Reproducibilitea-Sheffield.github.io/posts/2023-12/</guid>
   <pubDate>Wed, 06 Dec 2023 00:00:00 GMT</pubDate>
   <media:content url="https://the-turing-way.netlify.app/_images/reproducibility.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Reproducibilitea Sheffield Reboot</title>
-  <link>https://Reproducibilitea-Sheffield.github.io/posts/reboot/index.html</link>
+  <link>https://Reproducibilitea-Sheffield.github.io/posts/reboot/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -129,7 +132,7 @@
   <category>reproducibilitea</category>
   <category>reproducibility</category>
   <category>sheffield</category>
-  <guid>https://Reproducibilitea-Sheffield.github.io/posts/reboot/index.html</guid>
+  <guid>https://Reproducibilitea-Sheffield.github.io/posts/reboot/</guid>
   <pubDate>Mon, 14 Aug 2023 00:00:00 GMT</pubDate>
   <media:content url="https://i.pinimg.com/originals/bf/ab/0a/bfab0acb4ef0ab8edb7863bcfddd0a7c.jpg" medium="image" type="image/jpeg"/>
 </item>
