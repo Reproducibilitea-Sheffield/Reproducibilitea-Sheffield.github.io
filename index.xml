@@ -10,7 +10,64 @@
 <atom:link href="https://Reproducibilitea-Sheffield.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>Details about the Sheffield Reproducibilitea Journal Club</description>
 <generator>quarto-1.4.549</generator>
-<lastBuildDate>Thu, 18 Jan 2024 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 26 Mar 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Reproducibilitea 2024-03-26</title>
+  <link>https://Reproducibilitea-Sheffield.github.io/posts/2024-03-26/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://the-turing-way.netlify.app/_images/evolution-open-research.png" class="img-fluid figure-img"></p>
+<figcaption>The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: <a href="https://doi.org/10.5281/zenodo.3332807">10.5281/zenodo.3332807</a></figcaption>
+</figure>
+</div>
+<section id="what" class="level2">
+<h2 class="anchored" data-anchor-id="what">What</h2>
+<p>The chosen articles that we will review and discuss are from <em>Educational Research and Evaluation</em></p>
+<ul>
+<li>Replication is relevant to qualitative research (2022). <a href="https://doi.org/10.1080/13803611.2021.2022310">doi : 10.1080/13803611.2021.2022310</a></li>
+</ul>
+<blockquote class="blockquote">
+<p>Replication has received increasing attention over the last decade. This comes on the heels of prominent instances of data fabrication (National Academies of Sciences, Engineering, and Medicine, 2017) and estimates that few studies attempt to replicate previous findings (Makel &amp; Plucker, 2014). Replication has been called the Supreme Court of science (Collins, 1985), as well as a basic building block of scholarship. One persistent question in informal conversations that we have not seen addressed in formal writing, is replication’s relevance to qualitative research. Qualitative research is “a situated activity that locates the observer in the world” and “consists of a set of interpretive, material practices that make the world visible” (Denzin &amp; Lincoln, 2011, p.&nbsp;3). Some have argued that replication “missed the point” of qualitative research (Pratt et al., 2020, p.&nbsp;3). However, in a survey of nearly 1,500 recently published education researchers, less than 10% of qualitative researchers reported that replication should never be used (Makel et al., 2021). Given the prevalence of qualitative research in education, it is important to examine replication’s relevance. In this commentary, we argue that replication is relevant to the qualitative lens in at least three ways. First, replication supports the established values in qualitative research of transparency and intentionality. Second, replication can be used to assess the well-established tradition of transferability. Third, replication can evaluate connections between reflexivity, as evidenced by positionality statements, and qualitative research findings.</p>
+</blockquote>
+<p>…and an article in response…</p>
+<ul>
+<li>Is replication <em>possible</em> in qualitative research? A response to Makel et al.&nbsp;<a href="https://doi.org/10.1080/13803611.2024.2314526">doi: 10.1080/13803611.2024.2314526</a></li>
+</ul>
+<blockquote class="blockquote">
+<p>There has been much debate in recent years about how open research practices, which have been promoted in efforts to improve research robustness, may (not) be appropriate for qualitative methodologies, particularly in educational research. Among these is a concern for replication efforts. Makel et al.&nbsp;(Citation2022) make the case that “replication is relevant to qualitative research”. The authors argue that concerns surrounding the transferability, intentionality, and transparency of qualitative research may be eased, or responded to, by replication studies. Here, I argue that there are three fundamental questions that need unpacking before declarative claims can be made about the relevance of replication to qualitative research. This includes critical questioning of what we mean by: replication, qualitative research, and rigour. I address each of these issues and encourage a more nuanced appraisal of how replication may, or may not, be epistemologically, ontologically, or methodologically compatible with the goals of qualitative research.</p>
+</blockquote>
+</section>
+<section id="where" class="level2">
+<h2 class="anchored" data-anchor-id="where">Where</h2>
+<p>This event will be hybrid, if you wish to attend in person we will be meeting in View Room 4 on the 4th Floor of the <a href="https://www.openstreetmap.org/#map=19/53.38172/-1.48222">The Students Union</a>.</p>
+<p>Add the event to your Google Calendar using this <a href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NzF1ODc4M3RlOWJxcmh2Z2xqM2I4bjRzcmYgbi5zaGVwaGFyZEBzaGVmZmllbGQuYWMudWs&amp;tmsrc=n.shephard%40sheffield.ac.uk">link</a>.</p>
+<p>If you aren’t able to attend in person but would like to join the Journal Club you can do so using <a href="https://meet.google.com/fdh-whnv-mbv">Google Meet</a>.</p>
+</section>
+<section id="when" class="level2">
+<h2 class="anchored" data-anchor-id="when">When</h2>
+<p>2024-03-26 @ 12:00</p>
+</section>
+<section id="future-events" class="level2">
+<h2 class="anchored" data-anchor-id="future-events">Future Events</h2>
+<p>To stay abreast of up-coming events you can either sign up to the <a href="https://groups.google.com/a/sheffield.ac.uk/g/reproducibilitea">mailing list</a> or subscribe to the <a href="https://reproducibilitea-sheffield.github.io/index.xml">RSS feed</a>.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>reproducibilitea</category>
+  <category>reproducibility</category>
+  <category>sheffield</category>
+  <guid>https://Reproducibilitea-Sheffield.github.io/posts/2024-03-26/</guid>
+  <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+  <media:content url="https://the-turing-way.netlify.app/_images/evolution-open-research.png" medium="image" type="image/png"/>
+</item>
 <item>
   <title>Reproducibilitea 2024-01-18</title>
   <link>https://Reproducibilitea-Sheffield.github.io/posts/2024-01-18/</link>
