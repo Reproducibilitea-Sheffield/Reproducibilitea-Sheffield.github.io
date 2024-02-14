@@ -44,7 +44,8 @@ Once setup you can then...
 ### Images
 
 It can be useful to include openly licensed images in the web-page. These can be linked to directly if the image is on
-the internet.
+the internet. The [Turing Way illustrations](10.5281/zenodo.3332807) ([latest v11](https://zenodo.org/records/10556824))
+are a useful set of openly licensed images that can be linked.
 
 ### Location Links
 
