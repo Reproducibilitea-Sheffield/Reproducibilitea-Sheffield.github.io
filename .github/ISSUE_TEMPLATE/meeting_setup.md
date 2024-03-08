@@ -12,9 +12,10 @@ event after the room booking has been confirmed.
 
 ## Room Booking
 
-It is important to book a room with AV equipment as the intention is to hold hybrid events and so a decent AV equipment
-is essential. This requires the ability to connect the leads laptop to the display equipment via HDMI and a camera for
-sharing the room view.
+It is important to [book a
+room](https://staff.sheffield.ac.uk/it-services/room-bookings/pooled-meeting-rooms#How%20to%20book%20a%20meeting%20room%20on%20Google%20Calendar)
+with AV equipment as the intention is to hold hybrid events and so a decent AV equipment is essential. This requires the
+ability to connect the leads laptop to the display equipment via HDMI and a camera for sharing the room view.
 
 ## Google Calendar
 
@@ -36,28 +37,28 @@ Over time more places for announcing the event to will be added.
 
 Please check off tasks as complete and fill in fields with details for reference.
 
-+ [ ] Set Date/time
-  + **Date/Time** : YYYY-MM-DD HH:mm-HH:mm
-+ [ ] Book Room, see available rooms [here](https://sites.google.com/sheffield.ac.uk/pooledroomdirectory/home).
++ [ ] **Set Date/time** : YYYY-MM-DD HH:mm-HH:mm
++ [ ] Book Room, see available rooms
+      [here](https://staff.sheffield.ac.uk/it-services/room-bookings/pooled-meeting-rooms#How%20to%20book%20a%20meeting%20room%20on%20Google%20Calendar)
+      (other rooms can be [booked](https://sites.google.com/sheffield.ac.uk/pooledroomdirectory/home)).
   + **Building** :
   + **Room** :
-  + **Ticket Reference**
-  + **Event Reference**
+  + **Ticket Reference** :
+  + **Event Reference** :
 + [ ] Recruit person to lead/present paper.
   + **Lead** :
-+ [ ] Identify paper of choice (for suggestions see [Zotero
-      Group](https://www.zotero.org/groups/2354006/reproducibilitea/library)).
-  + **Paper** : [TITLE](URL)
++ [ ] **Paper** (for suggestions see [Zotero
+      Group](https://www.zotero.org/groups/2354006/reproducibilitea/library)) : [TITLE](URL)
++ [ ] **Calender Event Link** :
 + [ ] Create new web-page detailing paper.
   + [ ] Include a [OpenStreetMap](https://openstreetmap.org) link to the building location.
-+ [ ] Create Google Calendar event with room details and link to web-page.
-  + **Calendar Link** :
 + [ ] Create Event and News item on [OSC Sheffield](https://osc-international.com/osc-sheffield/)
   + [ ] **Event** : [CALENDAR EVENT](URL)
   + [ ] **News** : [NEWS EVENT](URL)
 + [ ] Announce to mailing lists...
-  + [ ] [reproducibilitea-googlegroup@sheffield.ac.uk](mailto:reproducibilitea-googlegroup@sheffield.ac.uk)
-  + [ ] [rse@sheffield.ac.uk](mailto:rse@sheffield.ac.uk)
+  + [ ] [reproducibilitea-googlegroup@sheffield.ac.uk](mailto:reproducibilitea-googlegroup@sheffield.ac.uk)  (can add to Google Calendar when creating event).
+  + [ ] [orwg-group@sheffield.ac.uk](mailto:orwg-group@sheffield.ac.uk) (can add to Google Calendar when creating event).
+  + [ ] [rse@sheffield.ac.uk](mailto:rse@sheffield.ac.uk)  (can add to Google Calendar when creating event).
   + [ ] Sheffield Hallam contact [Eddy Verban](mailto:E.Verbaan@shu.ac.uk) and [Pete Smith](mailto:P.R.Smith@shu.ac.uk)
   + [ ] [myannouncement-students](https://staff.sheffield.ac.uk/marketing-comms/guidance/myannouncement-students) (see
         the non-essential messaging section).

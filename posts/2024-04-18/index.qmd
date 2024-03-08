@@ -1,0 +1,59 @@
+title: "Reproducibilitea 2024-04-18"
+date: "2024-03-26"
+categories: [reproducibilitea, reproducibility, sheffield]
+image: <https://the-turing-way.netlify.app/_images/community.svg>
+from: markdown+emoji
+toc: true
+toc-depth: 4
+toc-location: right
+execute:
+  code_fold: true
+  code_link: true
+  code_tools: true
+  fig-cap-location: top
+  tbl-cap-location: top
+  warning: false
+---
+
+![The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)](https://the-turing-way.netlify.app/_images/community.svg)
+
+## What
+
+The chosen articles that we will review and discuss is from _Educational Research and Evaluation_
+
++ Accelerating the open research agenda to solve global challenges (2024). [doi
+  :10.1002/ece3.10887](https://doi.org/10.1002/ece3.10887)
+
+> Harnessing science-based policy is key to addressing global challenges like the biodiversity and climate crises. Open
+> research principles underpin effective science-based policy, but the uptake of these principles is likely constrained
+> by the politicisation, commoditisation and conflicting motives of stakeholders in the research landscape. Here, using
+> the mission and vision statements from 129 stakeholders from across the research landscape, we explore alignment in
+> open research principles between stakeholders. We find poor alignment between stakeholders, largely focussed around
+> journals, societies and funders, all of which have low open research language-use. We argue that this poor alignment
+> stifles knowledge flow within the research landscape, ultimately limiting the mobilisation of impactful science-based
+> policy. We offer recommendations on how the research landscape could embrace open research principles to accelerate
+> societies' ability to solve global challenges.
+
+Zuzanna Zagrodzka (PhD Student, Ecology and Evolutionary Biology) will take us through her recently published paper
+looking at the alignment of open research policy in stakeholders, its impact and recommendations on improving the situation.
+
+## Where
+
+This event will be hybrid, if you wish to attend in person we will be meeting in Meeting Room 105 of the
+[The Arts Tower](https://www.openstreetmap.org/#map=19/53.38271/-1.48729).
+
+Add the event to your Google Calendar using this
+[link](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NzF1ODc4M3RlOWJxcmh2Z2xqM2I4bjRzcmYgbi5zaGVwaGFyZEBzaGVmZmllbGQuYWMudWs&tmsrc=n.shephard%40sheffield.ac.uk).
+
+If you aren't able to attend in person but would like to join the Journal Club you can do so using [Google
+Meet](meet.google.com/gjh-deen-hnk).
+
+## When
+
+2024-04-18 @ 14:00
+
+## Future Events
+
+To stay abreast of up-coming events you can either sign up to the [mailing
+list](https://groups.google.com/a/sheffield.ac.uk/g/reproducibilitea) or subscribe to the [RSS
+feed](https://reproducibilitea-sheffield.github.io/index.xml).
