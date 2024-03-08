@@ -60,7 +60,7 @@
   <category>sheffield</category>
   <guid>https://Reproducibilitea-Sheffield.github.io/posts/2024-04-18/</guid>
   <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
-  <media:content url="https://Reproducibilitea-Sheffield.github.io/posts/2024-04-18/&lt;https:/the-turing-way.netlify.app/_images/community.svg&gt;" medium="image"/>
+  <media:content url="https://the-turing-way.netlify.app/_images/community.svg" medium="image" type="image/svg+xml"/>
 </item>
 <item>
   <title>Reproducibilitea 2024-03-26</title>
