@@ -2,7 +2,7 @@
 title: "Reproducibilitea 2024-04-18"
 date: "2024-03-26"
 categories: [reproducibilitea, reproducibility, sheffield]
-image: <https://the-turing-way.netlify.app/_images/community.svg>
+image: https://the-turing-way.netlify.app/_images/community.svg
 from: markdown+emoji
 toc: true
 toc-depth: 4
