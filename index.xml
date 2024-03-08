@@ -12,6 +12,57 @@
 <generator>quarto-1.4.551</generator>
 <lastBuildDate>Tue, 26 Mar 2024 00:00:00 GMT</lastBuildDate>
 <item>
+  <title>Reproducibilitea 2024-04-18</title>
+  <link>https://Reproducibilitea-Sheffield.github.io/posts/2024-04-18/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://the-turing-way.netlify.app/_images/community.svg" class="img-fluid figure-img"></p>
+<figcaption>The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: <a href="https://doi.org/10.5281/zenodo.3332807">10.5281/zenodo.3332807</a></figcaption>
+</figure>
+</div>
+<section id="what" class="level2">
+<h2 class="anchored" data-anchor-id="what">What</h2>
+<p>The chosen articles that we will review and discuss is from <em>Educational Research and Evaluation</em></p>
+<ul>
+<li>Accelerating the open research agenda to solve global challenges (2024). <a href="https://doi.org/10.1002/ece3.10887">doi :10.1002/ece3.10887</a></li>
+</ul>
+<blockquote class="blockquote">
+<p>Harnessing science-based policy is key to addressing global challenges like the biodiversity and climate crises. Open research principles underpin effective science-based policy, but the uptake of these principles is likely constrained by the politicisation, commoditisation and conflicting motives of stakeholders in the research landscape. Here, using the mission and vision statements from 129 stakeholders from across the research landscape, we explore alignment in open research principles between stakeholders. We find poor alignment between stakeholders, largely focussed around journals, societies and funders, all of which have low open research language-use. We argue that this poor alignment stifles knowledge flow within the research landscape, ultimately limiting the mobilisation of impactful science-based policy. We offer recommendations on how the research landscape could embrace open research principles to accelerate societies’ ability to solve global challenges.</p>
+</blockquote>
+<p>Zuzanna Zagrodzka (PhD Student, Ecology and Evolutionary Biology) will take us through her recently published paper looking at the alignment of open research policy in stakeholders, its impact and recommendations on improving the situation.</p>
+</section>
+<section id="where" class="level2">
+<h2 class="anchored" data-anchor-id="where">Where</h2>
+<p>This event will be hybrid, if you wish to attend in person we will be meeting in Meeting Room 105 of the <a href="https://www.openstreetmap.org/#map=19/53.38271/-1.48729">The Arts Tower</a>.</p>
+<p>Add the event to your Google Calendar using this <a href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NzF1ODc4M3RlOWJxcmh2Z2xqM2I4bjRzcmYgbi5zaGVwaGFyZEBzaGVmZmllbGQuYWMudWs&amp;tmsrc=n.shephard%40sheffield.ac.uk">link</a>.</p>
+<p>If you aren’t able to attend in person but would like to join the Journal Club you can do so using <a href="meet.google.com/gjh-deen-hnk">Google Meet</a>.</p>
+</section>
+<section id="when" class="level2">
+<h2 class="anchored" data-anchor-id="when">When</h2>
+<p>2024-04-18 @ 14:00</p>
+</section>
+<section id="future-events" class="level2">
+<h2 class="anchored" data-anchor-id="future-events">Future Events</h2>
+<p>To stay abreast of up-coming events you can either sign up to the <a href="https://groups.google.com/a/sheffield.ac.uk/g/reproducibilitea">mailing list</a> or subscribe to the <a href="https://reproducibilitea-sheffield.github.io/index.xml">RSS feed</a>.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>reproducibilitea</category>
+  <category>reproducibility</category>
+  <category>sheffield</category>
+  <guid>https://Reproducibilitea-Sheffield.github.io/posts/2024-04-18/</guid>
+  <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+  <media:content url="https://Reproducibilitea-Sheffield.github.io/posts/2024-04-18/&lt;https:/the-turing-way.netlify.app/_images/community.svg&gt;" medium="image"/>
+</item>
+<item>
   <title>Reproducibilitea 2024-03-26</title>
   <link>https://Reproducibilitea-Sheffield.github.io/posts/2024-03-26/</link>
   <description><![CDATA[ 
@@ -193,54 +244,6 @@
   <guid>https://Reproducibilitea-Sheffield.github.io/posts/reboot/</guid>
   <pubDate>Mon, 14 Aug 2023 00:00:00 GMT</pubDate>
   <media:content url="https://i.pinimg.com/originals/bf/ab/0a/bfab0acb4ef0ab8edb7863bcfddd0a7c.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title></title>
-  <link>https://Reproducibilitea-Sheffield.github.io/posts/2024-04-18/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>title: “Reproducibilitea 2024-04-18” date: “2024-03-26” categories: [reproducibilitea, reproducibility, sheffield] image: <a href="https://the-turing-way.netlify.app/_images/community.svg" class="uri">https://the-turing-way.netlify.app/_images/community.svg</a> from: markdown+emoji toc: true toc-depth: 4 toc-location: right execute: code_fold: true code_link: true code_tools: true fig-cap-location: top tbl-cap-location: top warning: false</p>
-<hr>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://the-turing-way.netlify.app/_images/community.svg" class="img-fluid figure-img"></p>
-<figcaption>The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: <a href="https://doi.org/10.5281/zenodo.3332807">10.5281/zenodo.3332807</a></figcaption>
-</figure>
-</div>
-<section id="what" class="level2">
-<h2 class="anchored" data-anchor-id="what">What</h2>
-<p>The chosen articles that we will review and discuss is from <em>Educational Research and Evaluation</em></p>
-<ul>
-<li>Accelerating the open research agenda to solve global challenges (2024). <a href="https://doi.org/10.1002/ece3.10887">doi :10.1002/ece3.10887</a></li>
-</ul>
-<blockquote class="blockquote">
-<p>Harnessing science-based policy is key to addressing global challenges like the biodiversity and climate crises. Open research principles underpin effective science-based policy, but the uptake of these principles is likely constrained by the politicisation, commoditisation and conflicting motives of stakeholders in the research landscape. Here, using the mission and vision statements from 129 stakeholders from across the research landscape, we explore alignment in open research principles between stakeholders. We find poor alignment between stakeholders, largely focussed around journals, societies and funders, all of which have low open research language-use. We argue that this poor alignment stifles knowledge flow within the research landscape, ultimately limiting the mobilisation of impactful science-based policy. We offer recommendations on how the research landscape could embrace open research principles to accelerate societies’ ability to solve global challenges.</p>
-</blockquote>
-<p>Zuzanna Zagrodzka (PhD Student, Ecology and Evolutionary Biology) will take us through her recently published paper looking at the alignment of open research policy in stakeholders, its impact and recommendations on improving the situation.</p>
-</section>
-<section id="where" class="level2">
-<h2 class="anchored" data-anchor-id="where">Where</h2>
-<p>This event will be hybrid, if you wish to attend in person we will be meeting in Meeting Room 105 of the <a href="https://www.openstreetmap.org/#map=19/53.38271/-1.48729">The Arts Tower</a>.</p>
-<p>Add the event to your Google Calendar using this <a href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NzF1ODc4M3RlOWJxcmh2Z2xqM2I4bjRzcmYgbi5zaGVwaGFyZEBzaGVmZmllbGQuYWMudWs&amp;tmsrc=n.shephard%40sheffield.ac.uk">link</a>.</p>
-<p>If you aren’t able to attend in person but would like to join the Journal Club you can do so using <a href="meet.google.com/gjh-deen-hnk">Google Meet</a>.</p>
-</section>
-<section id="when" class="level2">
-<h2 class="anchored" data-anchor-id="when">When</h2>
-<p>2024-04-18 @ 14:00</p>
-</section>
-<section id="future-events" class="level2">
-<h2 class="anchored" data-anchor-id="future-events">Future Events</h2>
-<p>To stay abreast of up-coming events you can either sign up to the <a href="https://groups.google.com/a/sheffield.ac.uk/g/reproducibilitea">mailing list</a> or subscribe to the <a href="https://reproducibilitea-sheffield.github.io/index.xml">RSS feed</a>.</p>
-
-
-</section>
-
- ]]></description>
-  <guid>https://Reproducibilitea-Sheffield.github.io/posts/2024-04-18/</guid>
-  <pubDate>Fri, 08 Mar 2024 09:52:08 GMT</pubDate>
 </item>
 </channel>
 </rss>
