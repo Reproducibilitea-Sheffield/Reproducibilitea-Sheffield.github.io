@@ -43,9 +43,22 @@ Once setup you can then...
 
 ### Images
 
-It can be useful to include openly licensed images in the web-page. These can be linked to directly if the image is on
-the internet. The [Turing Way illustrations](10.5281/zenodo.3332807) ([latest v11](https://zenodo.org/records/10556824))
-are a useful set of openly licensed images that can be linked.
+A useful source of images to use in posts are those produced for [The Turing
+Way](https://the-turing-way.netlify.app/). Many can be found in the DOI
+[10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807) note there are different versions (linked from the
+right hand side). Note however that these are the original images and are quite large files and so they can take a while
+to load. An alternative option is to use the URL for the images in the GitHub repository for The Turing Way website
+where [smaller versions of the images](https://github.com/the-turing-way/the-turing-way/tree/main/book/website/figures)
+can be found, or you can use the URL from the image as hosted on the website itself (_Right Click > Copy Image Address_)
+
+Regardless of the image source you should include the appropriate caption for the image which cites the images
+correctly. For convenience you can copy and paste the Markdown below, replacing the `<insert_image_url>` with the URL of
+the image.
+
+``` markdown
+![This illustration is created by Scriberia with The Turing Way community. Used under a CC-BY 4.0 licence. DOI:
+[https://doi.org/10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)](<insert_image_url)
+```
 
 ### Location Links
 
