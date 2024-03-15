@@ -55,8 +55,11 @@ Please check off tasks as complete and fill in fields with details for reference
 + [ ] Create Event and News item on [OSC Sheffield](https://osc-international.com/osc-sheffield/)
   + [ ] **Event** : [CALENDAR EVENT](URL)
   + [ ] **News** : [NEWS EVENT](URL)
++ [ ] Update University of Sheffield Open Research page : contact Jenni Adams with details for adding to Open Research
+      Events page.
 + [ ] Announce to mailing lists...
-  + [ ] [reproducibilitea-googlegroup@sheffield.ac.uk](mailto:reproducibilitea-googlegroup@sheffield.ac.uk)  (can add to Google Calendar when creating event).
+  + [ ] [reproducibilitea-googlegroup@sheffield.ac.uk](mailto:reproducibilitea-googlegroup@sheffield.ac.uk)  (can add to
+        Google Calendar when creating event).
   + [ ] [orwg-group@sheffield.ac.uk](mailto:orwg-group@sheffield.ac.uk) (can add to Google Calendar when creating event).
   + [ ] [rse@sheffield.ac.uk](mailto:rse@sheffield.ac.uk)  (can add to Google Calendar when creating event).
   + [ ] Sheffield Hallam contact [Eddy Verban](mailto:E.Verbaan@shu.ac.uk) and [Pete Smith](mailto:P.R.Smith@shu.ac.uk)
