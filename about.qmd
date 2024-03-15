@@ -22,6 +22,11 @@ Open Research will be discussed, it would be great if people are able to read th
 they liked and disliked about it and topics for discussion, but if you haven't time don't worry, a brief summary will be
 given at the start.
 
+To find out about up-coming events you can [join the mailing
+list](https://groups.google.com/a/sheffield.ac.uk/g/reproducibilitea) or use the [RSS
+feed](https://reproducibilitea-sheffield.github.io/index.xml). If you have any questions please [get in
+touch](mailto:reproducibilitea@sheffield.ac.uk).
+
 To find out more about these journal clubs please visit the [ReproducibiliTea - Journal Clubs for Open
 Science](https://reproducibilitea.org/) website.
 

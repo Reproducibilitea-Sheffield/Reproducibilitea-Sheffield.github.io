@@ -1,6 +1,6 @@
 ---
 title: "Reproducibilitea 2024-04-18"
-date: "2024-03-26"
+date: "2024-04-18"
 categories: [reproducibilitea, reproducibility, sheffield]
 image: https://the-turing-way.netlify.app/_images/community.svg
 from: markdown+emoji
@@ -20,7 +20,7 @@ execute:
 
 ## What
 
-The chosen articles that we will review and discuss is from _Educational Research and Evaluation_
+The chosen articles that we will review and discuss is from _Ecology and Evolution_
 
 + Accelerating the open research agenda to solve global challenges (2024). [doi
   :10.1002/ece3.10887](https://doi.org/10.1002/ece3.10887)
