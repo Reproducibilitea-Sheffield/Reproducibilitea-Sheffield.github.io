@@ -1,6 +1,6 @@
 ---
 title: "Reproducibilitea 2024-05-16"
-date: "2024-05-16"
+date: "2024-04-24"
 categories: [reproducibilitea, reproducibility, sheffield]
 image: https://the-turing-way.netlify.app/_images/peer-review-process.jpg
 from: markdown+emoji
@@ -37,7 +37,8 @@ The chosen article that we will review and discuss is from _F1000 Research_
 
 
 
-Jim Uttley () will take us through this paper on
+Jim Uttley (Lectuer in Architectural Science) will take us through this paper highlighting some salient points and
+opening discussion.
 
 ## Where
 
@@ -52,7 +53,7 @@ Meet](https://meet.google.com/hvf-awcg-uxu).
 
 ## When
 
-2024-05-16 @ 12:30
+2024-05-16 @ 12:00
 
 ## Future Events
 
