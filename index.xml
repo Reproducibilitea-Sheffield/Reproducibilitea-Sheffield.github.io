@@ -10,7 +10,58 @@
 <atom:link href="https://Reproducibilitea-Sheffield.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>Details about the Sheffield Reproducibilitea Journal Club</description>
 <generator>quarto-1.4.553</generator>
-<lastBuildDate>Thu, 18 Apr 2024 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 24 Apr 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Reproducibilitea 2024-05-16</title>
+  <link>https://Reproducibilitea-Sheffield.github.io/posts/2024-05-16/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://the-turing-way.netlify.app/_images/peer-review-process.jpg" class="img-fluid figure-img"></p>
+<figcaption>The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: <a href="https://doi.org/10.5281/zenodo.3332807">10.5281/zenodo.3332807</a></figcaption>
+</figure>
+</div>
+<section id="what" class="level2">
+<h2 class="anchored" data-anchor-id="what">What</h2>
+<p>The chosen article that we will review and discuss is from <em>F1000 Research</em></p>
+<ul>
+<li>Ten considerations for open peer review (2018). <a href="https://doi.org/10.12688/f1000research.15334.1">doi:10.12688/f1000research.15334.1</a></li>
+</ul>
+<blockquote class="blockquote">
+<p>Open peer review (OPR), as with other elements of open science and open research, is on the rise. It aims to bring greater transparency and participation to formal and informal peer review processes. But what is meant by `open peer review’, and what advantages and disadvantages does it have over standard forms of review? How do authors or reviewers approach OPR? And what pitfalls and opportunities should you look out for? Here, we propose ten considerations for OPR, drawing on discussions with authors, reviewers, editors, publishers and librarians, and provide a pragmatic, hands-on introduction to these issues. We cover basic principles and summarise best practices, indicating how to use OPR to achieve best value and mutual benefits for all stakeholders and the wider research community.</p>
+</blockquote>
+<p>Jim Uttley (Lectuer in Architectural Science) will take us through this paper highlighting some salient points and opening discussion.</p>
+</section>
+<section id="where" class="level2">
+<h2 class="anchored" data-anchor-id="where">Where</h2>
+<p>This event will be hybrid, if you wish to attend in person we will be meeting in Meeting Room G07 of the <a href="https://www.openstreetmap.org/relation/16133670">Hicks Building</a>.</p>
+<p>Add the event to your Google Calendar using this <a href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=MmRvZWtlMWhkaXBoazUxa3RtZmEyM2tkbTAgbi5zaGVwaGFyZEBzaGVmZmllbGQuYWMudWs&amp;tmsrc=n.shephard%40sheffield.ac.uk">link</a>.</p>
+<p>If you aren’t able to attend in person but would like to join the Journal Club you can do so using <a href="https://meet.google.com/hvf-awcg-uxu">Google Meet</a>.</p>
+</section>
+<section id="when" class="level2">
+<h2 class="anchored" data-anchor-id="when">When</h2>
+<p>2024-05-16 @ 12:00</p>
+</section>
+<section id="future-events" class="level2">
+<h2 class="anchored" data-anchor-id="future-events">Future Events</h2>
+<p>To stay abreast of up-coming events you can either sign up to the <a href="https://groups.google.com/a/sheffield.ac.uk/g/reproducibilitea">mailing list</a> or subscribe to the <a href="https://reproducibilitea-sheffield.github.io/index.xml">RSS feed</a>.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>reproducibilitea</category>
+  <category>reproducibility</category>
+  <category>sheffield</category>
+  <guid>https://Reproducibilitea-Sheffield.github.io/posts/2024-05-16/</guid>
+  <pubDate>Wed, 24 Apr 2024 00:00:00 GMT</pubDate>
+  <media:content url="https://the-turing-way.netlify.app/_images/peer-review-process.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Reproducibilitea 2024-04-18</title>
   <link>https://Reproducibilitea-Sheffield.github.io/posts/2024-04-18/</link>
