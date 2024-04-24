@@ -26,7 +26,6 @@ The chosen article that we will review and discuss is from _F1000 Research_
 + Ten considerations for open peer review
   (2018). [doi:10.12688/f1000research.15334.1](https://doi.org/10.12688/f1000research.15334.1)
 
-
 > Open peer review (OPR), as with other elements of open science and open research, is on the rise. It aims to bring
 > greater transparency and participation to formal and informal peer review processes. But what is meant by `open peer
 > review', and what advantages and disadvantages does it have over standard forms of review? How do authors or reviewers
@@ -34,8 +33,6 @@ The chosen article that we will review and discuss is from _F1000 Research_
 > drawing on discussions with authors, reviewers, editors, publishers and librarians, and provide a pragmatic, hands-on
 > introduction to these issues. We cover basic principles and summarise best practices, indicating how to use OPR to
 > achieve best value and mutual benefits for all stakeholders and the wider research community.
-
-
 
 Jim Uttley (Lectuer in Architectural Science) will take us through this paper highlighting some salient points and
 opening discussion.
