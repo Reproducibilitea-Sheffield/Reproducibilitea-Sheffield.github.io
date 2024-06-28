@@ -9,8 +9,59 @@
 <link>https://Reproducibilitea-Sheffield.github.io/</link>
 <atom:link href="https://Reproducibilitea-Sheffield.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>Details about the Sheffield Reproducibilitea Journal Club</description>
-<generator>quarto-1.4.553</generator>
-<lastBuildDate>Wed, 24 Apr 2024 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.4.557</generator>
+<lastBuildDate>Fri, 28 Jun 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Reproducibilitea 2024-07-12</title>
+  <link>https://Reproducibilitea-Sheffield.github.io/posts/2024-07-12/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://the-turing-way.netlify.app/_images/research-cycle.svg" class="img-fluid figure-img"></p>
+<figcaption>The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: <a href="https://doi.org/10.5281/zenodo.3332807">10.5281/zenodo.3332807</a></figcaption>
+</figure>
+</div>
+<section id="what" class="level2">
+<h2 class="anchored" data-anchor-id="what">What</h2>
+<p>The chosen article that we will review and discuss is from <a href="https://ojs.aaai.org/index.php/ICWSM/issue/view/459"><em>ICWSM Workshop (2015) Technical Report WS-15-18 (Standards and Practices in Large-Scale Social Media Research) /</em></a></p>
+<ul>
+<li>Making social media research reproducible (2018). <a href="https://doi.org/10.1609/icwsm.v9i4.14685">doi:10.1609/icwsm.v9i4.14685</a></li>
+</ul>
+<blockquote class="blockquote">
+<p>The huge numbers of people using social media makes online social networks an attractive source of data for researchers. But in order for the resultant huge numbers of research publications that involve social media to be credible and trusted, their methodologies, considerations of data handling and sensitivity, analysis, and so forth must be appropriately documented. We believe that one way to improve standards and practices in social media research is to encourage such research to be made reproducible, that is, to have sufficient documentation and sharing of research to allow others to either replicate or build on research results. Enabling this fundamental part of the scientific method will benefit the entire social media ecosystem, from the researchers who use data, to the people that benefit from the outcomes of research.</p>
+</blockquote>
+<p>Ric Campbell (Research Data Steward) will take us through this paper highlighting some salient points and opening discussion.</p>
+</section>
+<section id="where" class="level2">
+<h2 class="anchored" data-anchor-id="where">Where</h2>
+<p>This event will be hybrid, if you wish to attend in person we will be meeting in Meeting Room 410 of the <a href="https://www.openstreetmap.org/relation/16165929">Arts Tower</a>.</p>
+<p>Add the event to your Google Calendar using this <a href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=MWJib3EwbDhoa2U0ZzZmdHFkOHBiMTVtMXEgbi5zaGVwaGFyZEBzaGVmZmllbGQuYWMudWs&amp;tmsrc=n.shephard%40sheffield.ac.uk">link</a>.</p>
+<p>If you aren’t able to attend in person but would like to join the Journal Club you can do so using <a href="https://meet.google.com/nio-aheq-gnc">Google Meet</a>.</p>
+</section>
+<section id="when" class="level2">
+<h2 class="anchored" data-anchor-id="when">When</h2>
+<p>2024-07-12 @ 12:30</p>
+</section>
+<section id="future-events" class="level2">
+<h2 class="anchored" data-anchor-id="future-events">Future Events</h2>
+<p>To stay abreast of up-coming events you can either sign up to the <a href="https://groups.google.com/a/sheffield.ac.uk/g/reproducibilitea">mailing list</a> or subscribe to the <a href="https://reproducibilitea-sheffield.github.io/index.xml">RSS feed</a>.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>reproducibilitea</category>
+  <category>reproducibility</category>
+  <category>sheffield</category>
+  <guid>https://Reproducibilitea-Sheffield.github.io/posts/2024-07-12/</guid>
+  <pubDate>Fri, 28 Jun 2024 00:00:00 GMT</pubDate>
+  <media:content url="https://the-turing-way.netlify.app/_images/research-cycle.svg" medium="image" type="image/svg+xml"/>
+</item>
 <item>
   <title>Reproducibilitea 2024-05-16</title>
   <link>https://Reproducibilitea-Sheffield.github.io/posts/2024-05-16/</link>
