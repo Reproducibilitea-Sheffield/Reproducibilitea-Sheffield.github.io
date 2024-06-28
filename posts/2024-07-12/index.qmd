@@ -1,0 +1,61 @@
+---
+title: "Reproducibilitea 2024-07-12"
+date: "2024-06-28"
+categories: [reproducibilitea, reproducibility, sheffield]
+image: https://the-turing-way.netlify.app/_images/research-cycle.svg
+from: markdown+emoji
+toc: true
+toc-depth: 4
+toc-location: right
+execute:
+  code_fold: true
+  code_link: true
+  code_tools: true
+  fig-cap-location: top
+  tbl-cap-location: top
+  warning: false
+---
+
+![The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI:
+[10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)](https://the-turing-way.netlify.app/_images/research-cycle.svg)
+
+## What
+
+The chosen article that we will review and discuss is from [_ICWSM Workshop (2015) Technical Report WS-15-18 (Standards
+and Practices in Large-Scale Social Media Research) /_](https://ojs.aaai.org/index.php/ICWSM/issue/view/459)
+
++ Making social media research reproducible
+  (2018). [doi:10.1609/icwsm.v9i4.14685](https://doi.org/10.1609/icwsm.v9i4.14685)
+
+> The huge numbers of people using social media makes online social networks an attractive source of data for
+> researchers. But in order for the resultant huge numbers of research publications that involve social media to be
+> credible and trusted, their methodologies, considerations of data handling and sensitivity, analysis, and so forth must
+> be appropriately documented. We believe that one way to improve standards and practices in social media research is to
+> encourage such research to be made reproducible, that is, to have sufficient documentation and sharing of research to
+> allow others to either replicate or build on research results. Enabling this fundamental part of the scientific method
+> will benefit the entire social media ecosystem, from the researchers who use data, to the people that benefit from the
+> outcomes of research.
+
+Ric Campbell (Research Data Steward) will take us through this paper highlighting some salient points and opening
+discussion.
+
+## Where
+
+This event will be hybrid, if you wish to attend in person we will be meeting in Meeting Room 410 of the
+[Arts Tower](https://www.openstreetmap.org/relation/16165929).
+
+Add the event to your Google Calendar using this
+[link](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MWJib3EwbDhoa2U0ZzZmdHFkOHBiMTVtMXEgbi5zaGVwaGFyZEBzaGVmZmllbGQuYWMudWs&tmsrc=n.shephard%40sheffield.ac.uk).
+
+If you aren't able to attend in person but would like to join the Journal Club you can do so using [Google
+Meet](https://meet.google.com/nio-aheq-gnc).
+
+## When
+
+2024-07-12 @ 12:30
+
+## Future Events
+
+To stay abreast of up-coming events you can either sign up to the [mailing
+list](https://groups.google.com/a/sheffield.ac.uk/g/reproducibilitea) or subscribe to the [RSS
+feed](https://reproducibilitea-sheffield.github.io/index.xml).
