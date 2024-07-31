@@ -62,6 +62,12 @@ Please check off tasks as complete and fill in fields with details for reference
         Google Calendar when creating event).
   + [ ] [orwg-group@sheffield.ac.uk](mailto:orwg-group@sheffield.ac.uk) (can add to Google Calendar when creating event).
   + [ ] [rse@sheffield.ac.uk](mailto:rse@sheffield.ac.uk)  (can add to Google Calendar when creating event).
-  + [ ] Sheffield Hallam contact [Eddy Verban](mailto:E.Verbaan@shu.ac.uk) and [Pete Smith](mailto:P.R.Smith@shu.ac.uk)
+  + [ ] Sheffield Hallam contact [Eddy Verban](mailto:E.Verbaan@shu.ac.uk), [Pete Smith](mailto:P.R.Smith@shu.ac.uk) and
+        [Domi Smithson](mailto:d.smithson@shu.ac.uk)
   + [ ] [myannouncement-students](https://staff.sheffield.ac.uk/marketing-comms/guidance/myannouncement-students) (see
         the non-essential messaging section).
+  + [ ] [Reproducibilitea Calendar](https://reproducibilitea.org/calendar) (if you do not have access to this calendar
+        email [reproducibilitea@gmail.com](mailto:reproducibilitea@gmail.com) indicating you are an organiser of
+        ReproducibiliTea Sheffield and would like to add events).
+  + [ ] [OpenResearch Calendar](https://openresearchcalendar.org/calendar/) using the [Add Event
+        Form](https://openresearchcalendar.org/add-event).
