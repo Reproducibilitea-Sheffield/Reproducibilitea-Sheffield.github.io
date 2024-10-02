@@ -1,6 +1,6 @@
 ---
 title: "Reproducibilitea 2024-10-24"
-date: "2024-10-24"
+date: "2024-10-02"
 categories: [reproducibilitea, reproducibility, sheffield]
 image: https://book.the-turing-way.org/_images/personas.svg
 from: markdown+emoji
