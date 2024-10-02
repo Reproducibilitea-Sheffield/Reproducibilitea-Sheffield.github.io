@@ -10,7 +10,58 @@
 <atom:link href="https://Reproducibilitea-Sheffield.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>Details about the Sheffield Reproducibilitea Journal Club</description>
 <generator>quarto-1.5.57</generator>
-<lastBuildDate>Fri, 28 Jun 2024 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 24 Oct 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Reproducibilitea 2024-10-24</title>
+  <link>https://Reproducibilitea-Sheffield.github.io/posts/2024-10-24/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://book.the-turing-way.org/_images/personas.svg" class="img-fluid figure-img"></p>
+<figcaption>The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: <a href="https://doi.org/10.5281/zenodo.3332807">10.5281/zenodo.3332807</a></figcaption>
+</figure>
+</div>
+<section id="what" class="level2">
+<h2 class="anchored" data-anchor-id="what">What</h2>
+<p>The chosen article that we will review and discuss is from the <a href="https://www.cambridge.org/core/journals/annual-review-of-applied-linguistics"><em>Annual Review of Applied Linguistics</em></a>.</p>
+<ul>
+<li><em>Promises and perils of positionality statements</em> (2024). <a href="https://doi.org/10.1017/S0267190524000035">DOI:10.1017/S0267190524000035</a></li>
+</ul>
+<blockquote class="blockquote">
+<p>Positionality statements have increasingly become the norm in many strands of social science research, including applied linguistics. With reference to current research, theory, and the author’s own work, this paper reviews some of the promises and perils of such statements, including their performativity and lack of reflexivity. The author concludes by arguing that positionality statements need to offer both more and less, to be better targeted, and be more effectively and widely utilized within the field of applied linguistics.</p>
+</blockquote>
+<p>Dr Jenni Adams (Open Research Manager) will take us through this paper highlighting some salient points and opening discussion.</p>
+</section>
+<section id="where" class="level2">
+<h2 class="anchored" data-anchor-id="where">Where</h2>
+<p>This event will be hybrid, if you wish to attend in person we will be meeting in Meeting Room 315 of <a href="https://www.openstreetmap.org/relation/16098200">The Diamond</a>.</p>
+<p>Add the event to your Google Calendar using this <a href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NTRjbjhwdjBqb2s1aWU4a2RrMTRhZ3RmcTUgbi5zaGVwaGFyZEBzaGVmZmllbGQuYWMudWs&amp;tmsrc=n.shephard%40sheffield.ac.uk">link</a>.</p>
+<p>If you aren’t able to attend in person but would like to join the Journal Club you can do so using <a href="https://meet.google.com/yfj-ekvu-bmn">Google Meet</a>.</p>
+</section>
+<section id="when" class="level2">
+<h2 class="anchored" data-anchor-id="when">When</h2>
+<p>2024-07-12 @ 12:30</p>
+</section>
+<section id="future-events" class="level2">
+<h2 class="anchored" data-anchor-id="future-events">Future Events</h2>
+<p>To stay abreast of up-coming events you can either sign up to the <a href="https://groups.google.com/a/sheffield.ac.uk/g/reproducibilitea">mailing list</a> or subscribe to the <a href="https://reproducibilitea-sheffield.github.io/index.xml">RSS feed</a>.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>reproducibilitea</category>
+  <category>reproducibility</category>
+  <category>sheffield</category>
+  <guid>https://Reproducibilitea-Sheffield.github.io/posts/2024-10-24/</guid>
+  <pubDate>Thu, 24 Oct 2024 00:00:00 GMT</pubDate>
+  <media:content url="https://book.the-turing-way.org/_images/personas.svg" medium="image" type="image/svg+xml"/>
+</item>
 <item>
   <title>Reproducibilitea 2024-07-12</title>
   <link>https://Reproducibilitea-Sheffield.github.io/posts/2024-07-12/</link>
