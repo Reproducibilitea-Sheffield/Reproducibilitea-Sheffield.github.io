@@ -1,0 +1,58 @@
+---
+title: "Reproducibilitea 2024-10-24"
+date: "2024-10-24"
+categories: [reproducibilitea, reproducibility, sheffield]
+image: https://book.the-turing-way.org/_images/personas.svg
+from: markdown+emoji
+toc: true
+toc-depth: 4
+toc-location: right
+execute:
+  code_fold: true
+  code_link: true
+  code_tools: true
+  fig-cap-location: top
+  tbl-cap-location: top
+  warning: false
+---
+
+![The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI:
+[10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)](https://book.the-turing-way.org/_images/personas.svg)
+
+## What
+
+The chosen article that we will review and discuss is from the [_Annual Review of Applied
+Linguistics_](https://www.cambridge.org/core/journals/annual-review-of-applied-linguistics).
+
++ _Promises and perils of positionality statements_
+  (2024). [DOI:10.1017/S0267190524000035](https://doi.org/10.1017/S0267190524000035)
+
+> Positionality statements have increasingly become the norm in many strands of social science research, including
+> applied linguistics. With reference to current research, theory, and the author’s own work, this paper reviews some of
+> the promises and perils of such statements, including their performativity and lack of reflexivity. The author
+> concludes by arguing that positionality statements need to offer both more and less, to be better targeted, and be
+> more effectively and widely utilized within the field of applied linguistics.
+
+Dr Jenni Adams (Open Research Manager) will take us through this paper highlighting some salient points and opening
+discussion.
+
+## Where
+
+This event will be hybrid, if you wish to attend in person we will be meeting in Meeting Room 315 of
+[The Diamond](https://www.openstreetmap.org/relation/16098200).
+
+Add the event to your Google Calendar using this
+[link](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NTRjbjhwdjBqb2s1aWU4a2RrMTRhZ3RmcTUgbi5zaGVwaGFyZEBzaGVmZmllbGQuYWMudWs&tmsrc=n.shephard%40sheffield.ac.uk).
+
+If you aren't able to attend in person but would like to join the Journal Club you can do so using [Google
+Meet](https://meet.google.com/yfj-ekvu-bmn).
+
+## When
+
+2024-07-12 @ 12:30
+
+## Future Events
+
+To stay abreast of up-coming events you can either sign up to the [mailing
+list](https://groups.google.com/a/sheffield.ac.uk/g/reproducibilitea) or subscribe to the [RSS
+feed](https://reproducibilitea-sheffield.github.io/index.xml).
