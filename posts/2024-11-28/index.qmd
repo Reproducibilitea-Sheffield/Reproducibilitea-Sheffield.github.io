@@ -1,0 +1,64 @@
+---
+title: "Reproducibilitea 2024-11-28"
+date: "2024-10-31"
+categories: [reproducibilitea, reproducibility, sheffield]
+image: https://book.the-turing-way.org/_images/community.svg
+from: markdown+emoji
+toc: true
+toc-depth: 4
+toc-location: right
+execute:
+  code_fold: true
+  code_link: true
+  code_tools: true
+  fig-cap-location: top
+  tbl-cap-location: top
+  warning: false
+---
+
+![The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI:
+[10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)](https://book.the-turing-way.org/_images/community.svg)
+
+## What
+
+The chosen article that we will review and discuss is...
+
++  [“Best Paper” awards lack transparency, inclusivity, and support for Open Science | PLOS Biology](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002715)
+
+>Awards can propel academic careers. They also reflect the culture and values of the scientific community. But do awards
+>incentivize greater transparency, inclusivity, and openness in science? Our cross-disciplinary survey of 222 awards for
+>the “best” journal articles across all 27 SCImago subject areas revealed that journals and learned societies
+>administering such awards generally publish little detail on their procedures and criteria. Award descriptions were
+>brief, rarely including contact details or information on the nominations pool. Nominations of underrepresented groups
+>were not explicitly encouraged, and concepts that align with Open Science were almost absent from the assessment
+>criteria. At the same time, 10% of awards, especially the recently established ones, tended to use article-level impact
+>metrics. USA-affiliated researchers dominated the winner’s pool (48%), while researchers from the Global South were
+>uncommon (11%). Sixty-one percent of individual winners were men. Overall, Best Paper awards miss the global calls for
+>greater transparency and equitable access to academic recognition. We provide concrete and implementable
+>recommendations for scientific awards to improve the scientific recognition system and incentives for better scientific
+>practice.
+
+
+Zuzzana Zagrodzka (PhD Student) will take us through this paper highlighting some salient points and opening
+discussion.
+
+## Where
+
+This event will be hybrid, if you wish to attend in person we will be meeting in G22 Blue Room of the
+[Regents Court](https://www.openstreetmap.org/relation/16201517).
+
+Add the event to your Google Calendar using this
+[link](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N3VpMm45azhhc2k3ZmVuMjRsMWNla2JnMjIgbi5zaGVwaGFyZEBzaGVmZmllbGQuYWMudWs&tmsrc=n.shephard%40sheffield.ac.uk).
+
+If you aren't able to attend in person but would like to join the Journal Club you can do so using [Google
+Meet](https://meet.google.com/wfd-vgyk-fsg).
+
+## When
+
+2024-11-28 @ 12:30
+
+## Future Events
+
+To stay abreast of up-coming events you can either sign up to the [mailing
+list](https://groups.google.com/a/sheffield.ac.uk/g/reproducibilitea) or subscribe to the [RSS
+feed](https://reproducibilitea-sheffield.github.io/index.xml).
