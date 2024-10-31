@@ -1,17 +1,38 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "posts/2023-12/index.html",
+    "href": "posts/2023-12/index.html",
+    "title": "Reproducibilitea 2023-12-06",
     "section": "",
-    "text": "Welcome to the Reproducibilitea Sheffield Blog. This site details up-coming journal clubs and summaries of the discussions held at previous Journal Clubs. We aim to hold one Journal Club roughly every month where a topical paper on Open Research will be discussed, it would be great if people are able to read the paper before hand and note down what they liked and disliked about it and topics for discussion, but if you haven’t time don’t worry, a brief summary will be given at the start.\nTo find out about up-coming events you can join the mailing list or use the RSS feed. If you have any questions please get in touch.\nTo find out more about these journal clubs please visit the ReproducibiliTea - Journal Clubs for Open Science website."
+    "text": "The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807"
   },
   {
-    "objectID": "posts/reboot/index.html",
-    "href": "posts/reboot/index.html",
-    "title": "Reproducibilitea Sheffield Reboot",
-    "section": "",
-    "text": "Reproducibilitea Sheffield is back!\nThis site will hold details of up-coming Journal Clubs and provides links to useful resources.\nTo stay abreast of up-coming events you can either sign up to the mailing list or subscribe to the RSS feed."
+    "objectID": "posts/2023-12/index.html#what",
+    "href": "posts/2023-12/index.html#what",
+    "title": "Reproducibilitea 2023-12-06",
+    "section": "What",
+    "text": "What\nThe chosen article to that we review and discuss is a recent publication Nature Human Behaviour\n\nProtzko, J., Krosnick, J., Nelson, L. et al. High replicability of newly discovered social-behavioural findings is achievable. Nat Hum Behav (2023). doi : 10.1038/s41562-023-01749-9\n\n\nFailures to replicate evidence of new discoveries have forced scientists to ask whether this unreliability is due to suboptimal implementation of methods or whether presumptively optimal methods are not, in fact, optimal. This paper reports an investigation by four coordinated laboratories of the prospective replicability of 16 novel experimental findings using rigour-enhancing practices: confirmatory tests, large sample sizes, preregistration and methodological transparency. In contrast to past systematic replication efforts that reported replication rates averaging 50%, replication attempts here produced the expected effects with significance testing (P &lt; 0.05) in 86% of attempts, slightly exceeding the maximum expected replicability based on observed effect sizes and sample sizes. When one lab attempted to replicate an effect discovered by another lab, the effect size in the replications was 97% that in the original study. This high replication rate justifies confidence in rigour-enhancing methods to increase the replicability of new discoveries.\n\nNeil Shephard (Research Software Engineer at University of Sheffield) will give a brief summary of the article and will open discussion by highlighting some of the points he thought were good/bad about the paper."
+  },
+  {
+    "objectID": "posts/2023-12/index.html#where",
+    "href": "posts/2023-12/index.html#where",
+    "title": "Reproducibilitea 2023-12-06",
+    "section": "Where",
+    "text": "Where\nThis event will be hybrid, if you wish to attend in person we will be meeting in Workroom 2 of The Diamond, 32 Leavygreave Road, Sheffield, Broomhall, S3 7RD.\nAdd the event to your Google Calendar using this link.\nIf you aren’t able to attend in person but would like to join the Journal Club you can do so using Google Meet."
+  },
+  {
+    "objectID": "posts/2023-12/index.html#when",
+    "href": "posts/2023-12/index.html#when",
+    "title": "Reproducibilitea 2023-12-06",
+    "section": "When",
+    "text": "When\n2023-12-06 @ 13:15 Sheffield Reproducibilitea Journal Club is back in time to see 2023 out."
+  },
+  {
+    "objectID": "posts/2023-12/index.html#future-events",
+    "href": "posts/2023-12/index.html#future-events",
+    "title": "Reproducibilitea 2023-12-06",
+    "section": "Future Events",
+    "text": "Future Events\nTo stay abreast of up-coming events you can either sign up to the mailing list or subscribe to the RSS feed."
   },
   {
     "objectID": "posts/2024-05-16/index.html",
@@ -119,6 +140,48 @@
     "text": "Future Events\nTo stay abreast of up-coming events you can either sign up to the mailing list or subscribe to the RSS feed."
   },
   {
+    "objectID": "posts/2024-01-18/index.html",
+    "href": "posts/2024-01-18/index.html",
+    "title": "Reproducibilitea 2024-01-18",
+    "section": "",
+    "text": "The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807"
+  },
+  {
+    "objectID": "posts/2024-01-18/index.html#what",
+    "href": "posts/2024-01-18/index.html#what",
+    "title": "Reproducibilitea 2024-01-18",
+    "section": "What",
+    "text": "What\nThe chosen article to that we will review and discuss is an essay from The Journal of Electronic Publishing\n\nPooley J. Surveillance Publishing The Journal of Electronic Publishing (2022). doi : 10.3998/jep.1874\n\n\nThis essay develops the idea of surveillance publishing, with special attention to the example of Elsevier. A scholarly publisher can be defined as a surveillance publisher if it derives a substantial proportion of its revenue from prediction products, fueled by data extracted from researcher behavior. The essay begins by tracing the Google search engine’s roots in bibliometrics, alongside a history of the citation analysis company that became, in 2016, Clarivate. The essay develops the idea of surveillance publishing by engaging with the work of Shoshana Zuboff, Jathan Sadowski, Mariano-Florentino Cuéllar, and Aziz Huq. The recent history of Elsevier is traced to describe the company’s research-lifecycle data-harvesting strategy, with the aim to develop and sell prediction products to unviersity and other customers. The essay concludes by considering some of the potential costs of surveillance publishing, as other big commercial publishers increasingly enter the predictive-analytics business. It is likely, I argue, that windfall subscription-and-APC profits in Elsevier’s “legacy” publishing business have financed its decade-long acquisition binge in analytics. The products’ purpose, moreover, is to streamline the top-down assessment and evaluation practices that have taken hold in recent decades. A final concern is that scholars will internalize an analytics mindset, one already encouraged by citation counts and impact factors.\n\nAdam Partridge (Open Research Training Lead / ELIXIR-UK DaSH Fellow at University of Sheffield) will give a brief summary of the article and will open discussion by highlighting some of the points he thought were good/bad about the paper."
+  },
+  {
+    "objectID": "posts/2024-01-18/index.html#where",
+    "href": "posts/2024-01-18/index.html#where",
+    "title": "Reproducibilitea 2024-01-18",
+    "section": "Where",
+    "text": "Where\nThis event will be hybrid, if you wish to attend in person we will be meeting in Meeting Room 1 of The Diamond, 32 Leavygreave Road, Sheffield, Broomhall, S3 7RD.\nAdd the event to your Google Calendar using this link.\nIf you aren’t able to attend in person but would like to join the Journal Club you can do so using Google Meet."
+  },
+  {
+    "objectID": "posts/2024-01-18/index.html#when",
+    "href": "posts/2024-01-18/index.html#when",
+    "title": "Reproducibilitea 2024-01-18",
+    "section": "When",
+    "text": "When\n2024-01-18 @ 12:00"
+  },
+  {
+    "objectID": "posts/2024-01-18/index.html#future-events",
+    "href": "posts/2024-01-18/index.html#future-events",
+    "title": "Reproducibilitea 2024-01-18",
+    "section": "Future Events",
+    "text": "Future Events\nTo stay abreast of up-coming events you can either sign up to the mailing list or subscribe to the RSS feed."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Welcome to the Reproducibilitea Sheffield Blog. This site details up-coming journal clubs and summaries of the discussions held at previous Journal Clubs. We aim to hold one Journal Club roughly every month where a topical paper on Open Research will be discussed, it would be great if people are able to read the paper before hand and note down what they liked and disliked about it and topics for discussion, but if you haven’t time don’t worry, a brief summary will be given at the start.\nTo find out about up-coming events you can join the mailing list or use the RSS feed. If you have any questions please get in touch.\nTo find out more about these journal clubs please visit the ReproducibiliTea - Journal Clubs for Open Science website."
+  },
+  {
     "objectID": "links.html",
     "href": "links.html",
     "title": "Links",
@@ -179,7 +242,42 @@
     "href": "index.html",
     "title": "Reproducibilitea-Sheffield.github.io",
     "section": "",
-    "text": "Reproducibilitea 2024-10-24\n\n\n\n\n\n\nreproducibilitea\n\n\nreproducibility\n\n\nsheffield\n\n\n\n\n\n\n\n\n\nOct 2, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nReproducibilitea 2024-07-12\n\n\n\n\n\n\nreproducibilitea\n\n\nreproducibility\n\n\nsheffield\n\n\n\n\n\n\n\n\n\nJun 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nReproducibilitea 2024-05-16\n\n\n\n\n\n\nreproducibilitea\n\n\nreproducibility\n\n\nsheffield\n\n\n\n\n\n\n\n\n\nApr 24, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nReproducibilitea 2024-04-18\n\n\n\n\n\n\nreproducibilitea\n\n\nreproducibility\n\n\nsheffield\n\n\n\n\n\n\n\n\n\nApr 18, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nReproducibilitea 2024-03-26\n\n\n\n\n\n\nreproducibilitea\n\n\nreproducibility\n\n\nsheffield\n\n\n\n\n\n\n\n\n\nMar 26, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nReproducibilitea 2024-01-18\n\n\n\n\n\n\nreproducibilitea\n\n\nreproducibility\n\n\nsheffield\n\n\n\n\n\n\n\n\n\nJan 18, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nReproducibilitea 2023-12-06\n\n\n\n\n\n\nreproducibilitea\n\n\nreproducibility\n\n\nsheffield\n\n\n\n\n\n\n\n\n\nDec 6, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nReproducibilitea Sheffield Reboot\n\n\n\n\n\n\nreproducibilitea\n\n\nreproducibility\n\n\nsheffield\n\n\n\n\n\n\n\n\n\nAug 14, 2023\n\n\n\n\n\n\nNo matching items"
+    "text": "Reproducibilitea 2024-11-28\n\n\n\n\n\n\nreproducibilitea\n\n\nreproducibility\n\n\nsheffield\n\n\n\n\n\n\n\n\n\nOct 31, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nReproducibilitea 2024-10-24\n\n\n\n\n\n\nreproducibilitea\n\n\nreproducibility\n\n\nsheffield\n\n\n\n\n\n\n\n\n\nOct 2, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nReproducibilitea 2024-07-12\n\n\n\n\n\n\nreproducibilitea\n\n\nreproducibility\n\n\nsheffield\n\n\n\n\n\n\n\n\n\nJun 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nReproducibilitea 2024-05-16\n\n\n\n\n\n\nreproducibilitea\n\n\nreproducibility\n\n\nsheffield\n\n\n\n\n\n\n\n\n\nApr 24, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nReproducibilitea 2024-04-18\n\n\n\n\n\n\nreproducibilitea\n\n\nreproducibility\n\n\nsheffield\n\n\n\n\n\n\n\n\n\nApr 18, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nReproducibilitea 2024-03-26\n\n\n\n\n\n\nreproducibilitea\n\n\nreproducibility\n\n\nsheffield\n\n\n\n\n\n\n\n\n\nMar 26, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nReproducibilitea 2024-01-18\n\n\n\n\n\n\nreproducibilitea\n\n\nreproducibility\n\n\nsheffield\n\n\n\n\n\n\n\n\n\nJan 18, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nReproducibilitea 2023-12-06\n\n\n\n\n\n\nreproducibilitea\n\n\nreproducibility\n\n\nsheffield\n\n\n\n\n\n\n\n\n\nDec 6, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nReproducibilitea Sheffield Reboot\n\n\n\n\n\n\nreproducibilitea\n\n\nreproducibility\n\n\nsheffield\n\n\n\n\n\n\n\n\n\nAug 14, 2023\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/2024-11-28/index.html",
+    "href": "posts/2024-11-28/index.html",
+    "title": "Reproducibilitea 2024-11-28",
+    "section": "",
+    "text": "The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807"
+  },
+  {
+    "objectID": "posts/2024-11-28/index.html#what",
+    "href": "posts/2024-11-28/index.html#what",
+    "title": "Reproducibilitea 2024-11-28",
+    "section": "What",
+    "text": "What\nThe chosen article that we will review and discuss is…\n\n“Best Paper” awards lack transparency, inclusivity, and support for Open Science | PLOS Biology\n\n\nAwards can propel academic careers. They also reflect the culture and values of the scientific community. But do awards incentivize greater transparency, inclusivity, and openness in science? Our cross-disciplinary survey of 222 awards for the “best” journal articles across all 27 SCImago subject areas revealed that journals and learned societies administering such awards generally publish little detail on their procedures and criteria. Award descriptions were brief, rarely including contact details or information on the nominations pool. Nominations of underrepresented groups were not explicitly encouraged, and concepts that align with Open Science were almost absent from the assessment criteria. At the same time, 10% of awards, especially the recently established ones, tended to use article-level impact metrics. USA-affiliated researchers dominated the winner’s pool (48%), while researchers from the Global South were uncommon (11%). Sixty-one percent of individual winners were men. Overall, Best Paper awards miss the global calls for greater transparency and equitable access to academic recognition. We provide concrete and implementable recommendations for scientific awards to improve the scientific recognition system and incentives for better scientific practice.\n\nZuzzana Zagrodzka (PhD Student) will take us through this paper highlighting some salient points and opening discussion."
+  },
+  {
+    "objectID": "posts/2024-11-28/index.html#where",
+    "href": "posts/2024-11-28/index.html#where",
+    "title": "Reproducibilitea 2024-11-28",
+    "section": "Where",
+    "text": "Where\nThis event will be hybrid, if you wish to attend in person we will be meeting in G22 Blue Room of the Regents Court.\nAdd the event to your Google Calendar using this link.\nIf you aren’t able to attend in person but would like to join the Journal Club you can do so using Google Meet."
+  },
+  {
+    "objectID": "posts/2024-11-28/index.html#when",
+    "href": "posts/2024-11-28/index.html#when",
+    "title": "Reproducibilitea 2024-11-28",
+    "section": "When",
+    "text": "When\n2024-11-28 @ 12:30"
+  },
+  {
+    "objectID": "posts/2024-11-28/index.html#future-events",
+    "href": "posts/2024-11-28/index.html#future-events",
+    "title": "Reproducibilitea 2024-11-28",
+    "section": "Future Events",
+    "text": "Future Events\nTo stay abreast of up-coming events you can either sign up to the mailing list or subscribe to the RSS feed."
   },
   {
     "objectID": "posts/2024-03-26/index.html",
@@ -217,76 +315,6 @@
     "text": "Future Events\nTo stay abreast of up-coming events you can either sign up to the mailing list or subscribe to the RSS feed."
   },
   {
-    "objectID": "posts/2024-01-18/index.html",
-    "href": "posts/2024-01-18/index.html",
-    "title": "Reproducibilitea 2024-01-18",
-    "section": "",
-    "text": "The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807"
-  },
-  {
-    "objectID": "posts/2024-01-18/index.html#what",
-    "href": "posts/2024-01-18/index.html#what",
-    "title": "Reproducibilitea 2024-01-18",
-    "section": "What",
-    "text": "What\nThe chosen article to that we will review and discuss is an essay from The Journal of Electronic Publishing\n\nPooley J. Surveillance Publishing The Journal of Electronic Publishing (2022). doi : 10.3998/jep.1874\n\n\nThis essay develops the idea of surveillance publishing, with special attention to the example of Elsevier. A scholarly publisher can be defined as a surveillance publisher if it derives a substantial proportion of its revenue from prediction products, fueled by data extracted from researcher behavior. The essay begins by tracing the Google search engine’s roots in bibliometrics, alongside a history of the citation analysis company that became, in 2016, Clarivate. The essay develops the idea of surveillance publishing by engaging with the work of Shoshana Zuboff, Jathan Sadowski, Mariano-Florentino Cuéllar, and Aziz Huq. The recent history of Elsevier is traced to describe the company’s research-lifecycle data-harvesting strategy, with the aim to develop and sell prediction products to unviersity and other customers. The essay concludes by considering some of the potential costs of surveillance publishing, as other big commercial publishers increasingly enter the predictive-analytics business. It is likely, I argue, that windfall subscription-and-APC profits in Elsevier’s “legacy” publishing business have financed its decade-long acquisition binge in analytics. The products’ purpose, moreover, is to streamline the top-down assessment and evaluation practices that have taken hold in recent decades. A final concern is that scholars will internalize an analytics mindset, one already encouraged by citation counts and impact factors.\n\nAdam Partridge (Open Research Training Lead / ELIXIR-UK DaSH Fellow at University of Sheffield) will give a brief summary of the article and will open discussion by highlighting some of the points he thought were good/bad about the paper."
-  },
-  {
-    "objectID": "posts/2024-01-18/index.html#where",
-    "href": "posts/2024-01-18/index.html#where",
-    "title": "Reproducibilitea 2024-01-18",
-    "section": "Where",
-    "text": "Where\nThis event will be hybrid, if you wish to attend in person we will be meeting in Meeting Room 1 of The Diamond, 32 Leavygreave Road, Sheffield, Broomhall, S3 7RD.\nAdd the event to your Google Calendar using this link.\nIf you aren’t able to attend in person but would like to join the Journal Club you can do so using Google Meet."
-  },
-  {
-    "objectID": "posts/2024-01-18/index.html#when",
-    "href": "posts/2024-01-18/index.html#when",
-    "title": "Reproducibilitea 2024-01-18",
-    "section": "When",
-    "text": "When\n2024-01-18 @ 12:00"
-  },
-  {
-    "objectID": "posts/2024-01-18/index.html#future-events",
-    "href": "posts/2024-01-18/index.html#future-events",
-    "title": "Reproducibilitea 2024-01-18",
-    "section": "Future Events",
-    "text": "Future Events\nTo stay abreast of up-coming events you can either sign up to the mailing list or subscribe to the RSS feed."
-  },
-  {
-    "objectID": "posts/2023-12/index.html",
-    "href": "posts/2023-12/index.html",
-    "title": "Reproducibilitea 2023-12-06",
-    "section": "",
-    "text": "The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807"
-  },
-  {
-    "objectID": "posts/2023-12/index.html#what",
-    "href": "posts/2023-12/index.html#what",
-    "title": "Reproducibilitea 2023-12-06",
-    "section": "What",
-    "text": "What\nThe chosen article to that we review and discuss is a recent publication Nature Human Behaviour\n\nProtzko, J., Krosnick, J., Nelson, L. et al. High replicability of newly discovered social-behavioural findings is achievable. Nat Hum Behav (2023). doi : 10.1038/s41562-023-01749-9\n\n\nFailures to replicate evidence of new discoveries have forced scientists to ask whether this unreliability is due to suboptimal implementation of methods or whether presumptively optimal methods are not, in fact, optimal. This paper reports an investigation by four coordinated laboratories of the prospective replicability of 16 novel experimental findings using rigour-enhancing practices: confirmatory tests, large sample sizes, preregistration and methodological transparency. In contrast to past systematic replication efforts that reported replication rates averaging 50%, replication attempts here produced the expected effects with significance testing (P &lt; 0.05) in 86% of attempts, slightly exceeding the maximum expected replicability based on observed effect sizes and sample sizes. When one lab attempted to replicate an effect discovered by another lab, the effect size in the replications was 97% that in the original study. This high replication rate justifies confidence in rigour-enhancing methods to increase the replicability of new discoveries.\n\nNeil Shephard (Research Software Engineer at University of Sheffield) will give a brief summary of the article and will open discussion by highlighting some of the points he thought were good/bad about the paper."
-  },
-  {
-    "objectID": "posts/2023-12/index.html#where",
-    "href": "posts/2023-12/index.html#where",
-    "title": "Reproducibilitea 2023-12-06",
-    "section": "Where",
-    "text": "Where\nThis event will be hybrid, if you wish to attend in person we will be meeting in Workroom 2 of The Diamond, 32 Leavygreave Road, Sheffield, Broomhall, S3 7RD.\nAdd the event to your Google Calendar using this link.\nIf you aren’t able to attend in person but would like to join the Journal Club you can do so using Google Meet."
-  },
-  {
-    "objectID": "posts/2023-12/index.html#when",
-    "href": "posts/2023-12/index.html#when",
-    "title": "Reproducibilitea 2023-12-06",
-    "section": "When",
-    "text": "When\n2023-12-06 @ 13:15 Sheffield Reproducibilitea Journal Club is back in time to see 2023 out."
-  },
-  {
-    "objectID": "posts/2023-12/index.html#future-events",
-    "href": "posts/2023-12/index.html#future-events",
-    "title": "Reproducibilitea 2023-12-06",
-    "section": "Future Events",
-    "text": "Future Events\nTo stay abreast of up-coming events you can either sign up to the mailing list or subscribe to the RSS feed."
-  },
-  {
     "objectID": "posts/2024-07-12/index.html",
     "href": "posts/2024-07-12/index.html",
     "title": "Reproducibilitea 2024-07-12",
@@ -320,5 +348,12 @@
     "title": "Reproducibilitea 2024-07-12",
     "section": "Future Events",
     "text": "Future Events\nTo stay abreast of up-coming events you can either sign up to the mailing list or subscribe to the RSS feed."
+  },
+  {
+    "objectID": "posts/reboot/index.html",
+    "href": "posts/reboot/index.html",
+    "title": "Reproducibilitea Sheffield Reboot",
+    "section": "",
+    "text": "Reproducibilitea Sheffield is back!\nThis site will hold details of up-coming Journal Clubs and provides links to useful resources.\nTo stay abreast of up-coming events you can either sign up to the mailing list or subscribe to the RSS feed."
   }
 ]

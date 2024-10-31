@@ -10,7 +10,58 @@
 <atom:link href="https://Reproducibilitea-Sheffield.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>Details about the Sheffield Reproducibilitea Journal Club</description>
 <generator>quarto-1.5.57</generator>
-<lastBuildDate>Wed, 02 Oct 2024 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 31 Oct 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Reproducibilitea 2024-11-28</title>
+  <link>https://Reproducibilitea-Sheffield.github.io/posts/2024-11-28/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://book.the-turing-way.org/_images/community.svg" class="img-fluid figure-img"></p>
+<figcaption>The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: <a href="https://doi.org/10.5281/zenodo.3332807">10.5281/zenodo.3332807</a></figcaption>
+</figure>
+</div>
+<section id="what" class="level2">
+<h2 class="anchored" data-anchor-id="what">What</h2>
+<p>The chosen article that we will review and discuss is…</p>
+<ul>
+<li><a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002715">“Best Paper” awards lack transparency, inclusivity, and support for Open Science | PLOS Biology</a></li>
+</ul>
+<blockquote class="blockquote">
+<p>Awards can propel academic careers. They also reflect the culture and values of the scientific community. But do awards incentivize greater transparency, inclusivity, and openness in science? Our cross-disciplinary survey of 222 awards for the “best” journal articles across all 27 SCImago subject areas revealed that journals and learned societies administering such awards generally publish little detail on their procedures and criteria. Award descriptions were brief, rarely including contact details or information on the nominations pool. Nominations of underrepresented groups were not explicitly encouraged, and concepts that align with Open Science were almost absent from the assessment criteria. At the same time, 10% of awards, especially the recently established ones, tended to use article-level impact metrics. USA-affiliated researchers dominated the winner’s pool (48%), while researchers from the Global South were uncommon (11%). Sixty-one percent of individual winners were men. Overall, Best Paper awards miss the global calls for greater transparency and equitable access to academic recognition. We provide concrete and implementable recommendations for scientific awards to improve the scientific recognition system and incentives for better scientific practice.</p>
+</blockquote>
+<p>Zuzzana Zagrodzka (PhD Student) will take us through this paper highlighting some salient points and opening discussion.</p>
+</section>
+<section id="where" class="level2">
+<h2 class="anchored" data-anchor-id="where">Where</h2>
+<p>This event will be hybrid, if you wish to attend in person we will be meeting in G22 Blue Room of the <a href="https://www.openstreetmap.org/relation/16201517">Regents Court</a>.</p>
+<p>Add the event to your Google Calendar using this <a href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=N3VpMm45azhhc2k3ZmVuMjRsMWNla2JnMjIgbi5zaGVwaGFyZEBzaGVmZmllbGQuYWMudWs&amp;tmsrc=n.shephard%40sheffield.ac.uk">link</a>.</p>
+<p>If you aren’t able to attend in person but would like to join the Journal Club you can do so using <a href="https://meet.google.com/wfd-vgyk-fsg">Google Meet</a>.</p>
+</section>
+<section id="when" class="level2">
+<h2 class="anchored" data-anchor-id="when">When</h2>
+<p>2024-11-28 @ 12:30</p>
+</section>
+<section id="future-events" class="level2">
+<h2 class="anchored" data-anchor-id="future-events">Future Events</h2>
+<p>To stay abreast of up-coming events you can either sign up to the <a href="https://groups.google.com/a/sheffield.ac.uk/g/reproducibilitea">mailing list</a> or subscribe to the <a href="https://reproducibilitea-sheffield.github.io/index.xml">RSS feed</a>.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>reproducibilitea</category>
+  <category>reproducibility</category>
+  <category>sheffield</category>
+  <guid>https://Reproducibilitea-Sheffield.github.io/posts/2024-11-28/</guid>
+  <pubDate>Thu, 31 Oct 2024 00:00:00 GMT</pubDate>
+  <media:content url="https://book.the-turing-way.org/_images/community.svg" medium="image" type="image/svg+xml"/>
+</item>
 <item>
   <title>Reproducibilitea 2024-10-24</title>
   <link>https://Reproducibilitea-Sheffield.github.io/posts/2024-10-24/</link>
