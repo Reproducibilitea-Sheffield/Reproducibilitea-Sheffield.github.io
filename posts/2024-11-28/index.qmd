@@ -23,7 +23,7 @@ execute:
 
 The chosen article that we will review and discuss is...
 
-+  [“Best Paper” awards lack transparency, inclusivity, and support for Open Science | PLOS Biology](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002715)
++ [“Best Paper” awards lack transparency, inclusivity, and support for Open Science | PLOS Biology](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002715)
 
 >Awards can propel academic careers. They also reflect the culture and values of the scientific community. But do awards
 >incentivize greater transparency, inclusivity, and openness in science? Our cross-disciplinary survey of 222 awards for
@@ -37,7 +37,6 @@ The chosen article that we will review and discuss is...
 >greater transparency and equitable access to academic recognition. We provide concrete and implementable
 >recommendations for scientific awards to improve the scientific recognition system and incentives for better scientific
 >practice.
-
 
 Zuzzana Zagrodzka (PhD Student) will take us through this paper highlighting some salient points and opening
 discussion.
