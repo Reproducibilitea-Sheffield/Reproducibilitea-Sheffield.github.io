@@ -1,0 +1,69 @@
+---
+title: "Reproducibilitea 2025-01-29"
+date: "2024-12-04"
+categories: [reproducibilitea, reproducibility, sheffield]
+image: https://book.the-turing-way.org/_images/research-compendium.svg
+from: markdown+emoji
+toc: true
+toc-depth: 4
+toc-location: right
+execute:
+  code_fold: true
+  code_link: true
+  code_tools: true
+  fig-cap-location: top
+  tbl-cap-location: top
+  warning: false
+---
+
+![The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI:
+[10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)](https://book.the-turing-way.org/_images/research-compendium.svg)
+
+## What
+
+The chosen article that we will review and discuss is...
+
+- [OSF Preprints | Working Paper No 6: Exploring Research Transparency, Positionality and
+  Reproducibility](https://osf.io/preprints/osf/chyd4)
+
+> This  paper  provides  a  summary  of a  project  which exploredthe  meanings  attached  to  the terms ‘transparency’,
+> ‘positionality’ and ‘reproducibility’ by researchersfrom  different  fields, through dialogue betweenpractice
+> researchersin the artsand psychology.
+>
+> The project consisted of three phases:
+>
+> 1. A pre-workshop discussion paper was developed to provide initial reflections on each of the terms.
+> 2. An in-person workshop brought together researchers from psychology and the arts to uncovera plurality of
+>    perspectives on the terms through dialogue.
+> 3. Post-workshop reflections   from   the   organisers   highlightedsignificant   points   of commonality and
+>    dimensions of difference arising from the workshop.
+>
+> The reflections summarised in this report represent different views from within and across
+> the fields of arts practice research and psychology.There was no attempt to reach a consensus in relation to these
+> terms, but participants and organisers felt that there was inherentvalue in this cross-disciplinarydialogue.  The
+> discussions  helped  to  surface assumptions  about research that may be obscured by belonging to a specific research
+> community.
+
+Dr Eddy Verbaan (Head of Library Research Support, Sheffield Hallam University) will take us through this paper
+highlighting some salient points and opening discussion.
+
+## Where
+
+This event will be hybrid, if you wish to attend in person we will be meeting in Room 12.1.01 Level 1 of [Sheffield
+Institute of Education, Charles Street](https://www.openstreetmap.org/way/104031232).
+
+Add the event to your Google Calendar using this
+[link](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M3RrbjRzMzVwbnU2NGg2YThkM2swZWxmMDggbi5zaGVwaGFyZEBzaGVmZmllbGQuYWMudWs&tmsrc=n.shephard%40sheffield.ac.uk).
+
+If you aren't able to attend in person but would like to join the Journal Club you can do so using [Google
+Meet](https://meet.google.com/tpv-xyrn-gwi).
+
+## When
+
+2025-01-29 @ 11:00
+
+## Future Events
+
+To stay abreast of up-coming events you can either sign up to the [mailing
+list](https://groups.google.com/a/sheffield.ac.uk/g/reproducibilitea) or subscribe to the [RSS
+feed](https://reproducibilitea-sheffield.github.io/index.xml).
