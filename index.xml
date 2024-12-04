@@ -10,7 +10,65 @@
 <atom:link href="https://Reproducibilitea-Sheffield.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>Details about the Sheffield Reproducibilitea Journal Club</description>
 <generator>quarto-1.6.39</generator>
-<lastBuildDate>Thu, 31 Oct 2024 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 04 Dec 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Reproducibilitea 2025-01-29</title>
+  <link>https://Reproducibilitea-Sheffield.github.io/posts/2025-01-29/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://book.the-turing-way.org/_images/research-compendium.svg" class="img-fluid figure-img"></p>
+<figcaption>The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: <a href="https://doi.org/10.5281/zenodo.3332807">10.5281/zenodo.3332807</a></figcaption>
+</figure>
+</div>
+<section id="what" class="level2">
+<h2 class="anchored" data-anchor-id="what">What</h2>
+<p>The chosen article that we will review and discuss is…</p>
+<ul>
+<li><a href="https://osf.io/preprints/osf/chyd4">OSF Preprints | Working Paper No 6: Exploring Research Transparency, Positionality and Reproducibility</a></li>
+</ul>
+<blockquote class="blockquote">
+<p>This paper provides a summary of a project which exploredthe meanings attached to the terms ‘transparency’, ‘positionality’ and ‘reproducibility’ by researchersfrom different fields, through dialogue betweenpractice researchersin the artsand psychology.</p>
+<p>The project consisted of three phases:</p>
+<ol type="1">
+<li>A pre-workshop discussion paper was developed to provide initial reflections on each of the terms.</li>
+<li>An in-person workshop brought together researchers from psychology and the arts to uncovera plurality of perspectives on the terms through dialogue.</li>
+<li>Post-workshop reflections from the organisers highlightedsignificant points of commonality and dimensions of difference arising from the workshop.</li>
+</ol>
+<p>The reflections summarised in this report represent different views from within and across the fields of arts practice research and psychology.There was no attempt to reach a consensus in relation to these terms, but participants and organisers felt that there was inherentvalue in this cross-disciplinarydialogue. The discussions helped to surface assumptions about research that may be obscured by belonging to a specific research community.</p>
+</blockquote>
+<p>Dr Eddy Verbaan (Head of Library Research Support, Sheffield Hallam University) will take us through this paper highlighting some salient points and opening discussion.</p>
+</section>
+<section id="where" class="level2">
+<h2 class="anchored" data-anchor-id="where">Where</h2>
+<p>This event will be hybrid, if you wish to attend in person we will be meeting in Room 12.1.01 Level 1 of <a href="https://www.openstreetmap.org/way/104031232">Sheffield Institute of Education, Charles Street</a>.</p>
+<p>Add the event to your Google Calendar using this <a href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=M3RrbjRzMzVwbnU2NGg2YThkM2swZWxmMDggbi5zaGVwaGFyZEBzaGVmZmllbGQuYWMudWs&amp;tmsrc=n.shephard%40sheffield.ac.uk">link</a>.</p>
+<p>If you aren’t able to attend in person but would like to join the Journal Club you can do so using <a href="https://meet.google.com/tpv-xyrn-gwi">Google Meet</a>.</p>
+</section>
+<section id="when" class="level2">
+<h2 class="anchored" data-anchor-id="when">When</h2>
+<p>2025-01-29 @ 11:00</p>
+</section>
+<section id="future-events" class="level2">
+<h2 class="anchored" data-anchor-id="future-events">Future Events</h2>
+<p>To stay abreast of up-coming events you can either sign up to the <a href="https://groups.google.com/a/sheffield.ac.uk/g/reproducibilitea">mailing list</a> or subscribe to the <a href="https://reproducibilitea-sheffield.github.io/index.xml">RSS feed</a>.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>reproducibilitea</category>
+  <category>reproducibility</category>
+  <category>sheffield</category>
+  <guid>https://Reproducibilitea-Sheffield.github.io/posts/2025-01-29/</guid>
+  <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
+  <media:content url="https://book.the-turing-way.org/_images/research-compendium.svg" medium="image" type="image/svg+xml"/>
+</item>
 <item>
   <title>Reproducibilitea 2024-11-28</title>
   <link>https://Reproducibilitea-Sheffield.github.io/posts/2024-11-28/</link>
