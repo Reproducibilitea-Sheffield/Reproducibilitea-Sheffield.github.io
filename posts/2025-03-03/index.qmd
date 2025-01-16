@@ -1,0 +1,57 @@
+---
+title: "Reproducibilitea 2025-03-03"
+date: "2024-12-04"
+categories: [reproducibilitea, reproducibility, sheffield]
+image: ./open-development.jpg
+from: markdown+emoji
+toc: true
+toc-depth: 4
+toc-location: right
+execute:
+  code_fold: true
+  code_link: true
+  code_tools: true
+  fig-cap-location: top
+  tbl-cap-location: top
+  warning: false
+---
+
+![The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI:
+[10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)](./open-development.jpg)
+
+## What
+
+The chosen article that we will review and discuss is...
+
+- [The replication crisis has led to positive structural, procedural, and community changes | Communications Psychology](https://www.nature.com/articles/s44271-023-00003-2)
+
+> The emergence of large-scale replication projects yielding successful rates substantially lower than expected caused
+> the behavioural, cognitive, and social sciences to experience a so-called ‘replication crisis’. In this Perspective,
+> we reframe this ‘crisis’ through the lens of a credibility revolution, focusing on positive structural, procedural and
+> community-driven changes. Second, we outline a path to expand ongoing advances and improvements. The credibility
+> revolution has been an impetus to several substantive changes which will have a positive, long-term impact on our
+> research environment.
+
+Dr Romain Thomas (Head of [Research Software Engineering](https://rse.shef.ac.uk), University of Sheffield) will take us
+through this paper highlighting some salient points and opening discussion.
+
+## Where
+
+This event will be hybrid, if you wish to attend in person we will be meeting in Room G07 of the [Hicks Building,
+University of Sheffield](https://www.openstreetmap.org/relation/16133670).
+
+Add the event to your Google Calendar using this
+[link](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M2pzMDY0OG5ianU3M3I0NmozdmNxZjlkZDIgbi5zaGVwaGFyZEBzaGVmZmllbGQuYWMudWs&tmsrc=n.shephard%40sheffield.ac.uk).
+
+If you aren't able to attend in person but would like to join the Journal Club you can do so using [Google
+Meet](https://meet.google.com/uhb-zqbr-fix).
+
+## When
+
+2025-03-03 @ 12:30-13:20
+
+## Future Events
+
+To stay abreast of up-coming events you can either sign up to the [mailing
+list](https://groups.google.com/a/sheffield.ac.uk/g/reproducibilitea) or subscribe to the [RSS
+feed](https://reproducibilitea-sheffield.github.io/index.xml).
