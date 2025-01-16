@@ -1,10 +1,5 @@
-# Configuration
-
 config:
-
-# MD013 - line-length
-
-  line_length:
+  line_length: # MD013
     line_length: 120
     code_blocks: false
     tables: false
@@ -16,7 +11,6 @@ globs:
   - "*.qmd"
 ignores:
   - "_site/**/*.qmd"
-
-# Fix any fixable errors
+  - ".github/ISSUE_TEMPLATE/meeting_setup.md"
 
 fix: true
