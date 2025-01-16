@@ -60,3 +60,12 @@ Meet](https://meet.google.com/ehu-zapk-awt).
 To stay abreast of up-coming events you can either sign up to the [mailing
 list](https://groups.google.com/a/sheffield.ac.uk/g/reproducibilitea) or subscribe to the [RSS
 feed](https://reproducibilitea-sheffield.github.io/index.xml).
+
+
+## Follow-up
+
+This paper was, as is now noted, [Retractaed]() as it was [pointed
+out](https://www.nature.com/articles/s41562-024-01982-w) that it was itself not adhering to the standards it was
+suggesting should be. There is some further discussion on the _Statistical Modeling, Causal Inference and Social
+Science_ blog [What’s the story behind that paper by the Center for Open Science team that just got
+retracted?](https://statmodeling.stat.columbia.edu/2024/09/26/whats-the-story-behind-that-paper-by-the-center-for-open-science-team-that-just-got-retracted/).
