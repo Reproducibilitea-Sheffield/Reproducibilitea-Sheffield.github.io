@@ -1,229 +1,5 @@
 [
   {
-    "objectID": "posts/2023-12/index.html",
-    "href": "posts/2023-12/index.html",
-    "title": "Reproducibilitea 2023-12-06",
-    "section": "",
-    "text": "The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807"
-  },
-  {
-    "objectID": "posts/2023-12/index.html#what",
-    "href": "posts/2023-12/index.html#what",
-    "title": "Reproducibilitea 2023-12-06",
-    "section": "What",
-    "text": "What\nThe chosen article to that we review and discuss is a recent publication Nature Human Behaviour\n\nProtzko, J., Krosnick, J., Nelson, L. et al. High replicability of newly discovered social-behavioural findings is achievable. Nat Hum Behav (2023). doi : 10.1038/s41562-023-01749-9\n\n\nFailures to replicate evidence of new discoveries have forced scientists to ask whether this unreliability is due to suboptimal implementation of methods or whether presumptively optimal methods are not, in fact, optimal. This paper reports an investigation by four coordinated laboratories of the prospective replicability of 16 novel experimental findings using rigour-enhancing practices: confirmatory tests, large sample sizes, preregistration and methodological transparency. In contrast to past systematic replication efforts that reported replication rates averaging 50%, replication attempts here produced the expected effects with significance testing (P &lt; 0.05) in 86% of attempts, slightly exceeding the maximum expected replicability based on observed effect sizes and sample sizes. When one lab attempted to replicate an effect discovered by another lab, the effect size in the replications was 97% that in the original study. This high replication rate justifies confidence in rigour-enhancing methods to increase the replicability of new discoveries.\n\nNeil Shephard (Research Software Engineer at University of Sheffield) will give a brief summary of the article and will open discussion by highlighting some of the points he thought were good/bad about the paper."
-  },
-  {
-    "objectID": "posts/2023-12/index.html#where",
-    "href": "posts/2023-12/index.html#where",
-    "title": "Reproducibilitea 2023-12-06",
-    "section": "Where",
-    "text": "Where\nThis event will be hybrid, if you wish to attend in person we will be meeting in Workroom 2 of The Diamond, 32 Leavygreave Road, Sheffield, Broomhall, S3 7RD.\nAdd the event to your Google Calendar using this link.\nIf you aren’t able to attend in person but would like to join the Journal Club you can do so using Google Meet."
-  },
-  {
-    "objectID": "posts/2023-12/index.html#when",
-    "href": "posts/2023-12/index.html#when",
-    "title": "Reproducibilitea 2023-12-06",
-    "section": "When",
-    "text": "When\n2023-12-06 @ 13:15 Sheffield Reproducibilitea Journal Club is back in time to see 2023 out."
-  },
-  {
-    "objectID": "posts/2023-12/index.html#future-events",
-    "href": "posts/2023-12/index.html#future-events",
-    "title": "Reproducibilitea 2023-12-06",
-    "section": "Future Events",
-    "text": "Future Events\nTo stay abreast of up-coming events you can either sign up to the mailing list or subscribe to the RSS feed."
-  },
-  {
-    "objectID": "posts/2023-12/index.html#follow-up",
-    "href": "posts/2023-12/index.html#follow-up",
-    "title": "Reproducibilitea 2023-12-06",
-    "section": "Follow-up",
-    "text": "Follow-up\nThis paper was, as is now noted, Retractaed as it was pointed out that it was itself not adhering to the standards it was suggesting should be. There is some further discussion on the Statistical Modeling, Causal Inference and Social Science blog What’s the story behind that paper by the Center for Open Science team that just got retracted?."
-  },
-  {
-    "objectID": "posts/2024-05-16/index.html",
-    "href": "posts/2024-05-16/index.html",
-    "title": "Reproducibilitea 2024-05-16",
-    "section": "",
-    "text": "The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807"
-  },
-  {
-    "objectID": "posts/2024-05-16/index.html#what",
-    "href": "posts/2024-05-16/index.html#what",
-    "title": "Reproducibilitea 2024-05-16",
-    "section": "What",
-    "text": "What\nThe chosen article that we will review and discuss is from F1000 Research\n\nTen considerations for open peer review (2018). doi:10.12688/f1000research.15334.1\n\n\nOpen peer review (OPR), as with other elements of open science and open research, is on the rise. It aims to bring greater transparency and participation to formal and informal peer review processes. But what is meant by `open peer review’, and what advantages and disadvantages does it have over standard forms of review? How do authors or reviewers approach OPR? And what pitfalls and opportunities should you look out for? Here, we propose ten considerations for OPR, drawing on discussions with authors, reviewers, editors, publishers and librarians, and provide a pragmatic, hands-on introduction to these issues. We cover basic principles and summarise best practices, indicating how to use OPR to achieve best value and mutual benefits for all stakeholders and the wider research community.\n\nJim Uttley (Lectuer in Architectural Science) will take us through this paper highlighting some salient points and opening discussion."
-  },
-  {
-    "objectID": "posts/2024-05-16/index.html#where",
-    "href": "posts/2024-05-16/index.html#where",
-    "title": "Reproducibilitea 2024-05-16",
-    "section": "Where",
-    "text": "Where\nThis event will be hybrid, if you wish to attend in person we will be meeting in Meeting Room G07 of the Hicks Building.\nAdd the event to your Google Calendar using this link.\nIf you aren’t able to attend in person but would like to join the Journal Club you can do so using Google Meet."
-  },
-  {
-    "objectID": "posts/2024-05-16/index.html#when",
-    "href": "posts/2024-05-16/index.html#when",
-    "title": "Reproducibilitea 2024-05-16",
-    "section": "When",
-    "text": "When\n2024-05-16 @ 12:00"
-  },
-  {
-    "objectID": "posts/2024-05-16/index.html#future-events",
-    "href": "posts/2024-05-16/index.html#future-events",
-    "title": "Reproducibilitea 2024-05-16",
-    "section": "Future Events",
-    "text": "Future Events\nTo stay abreast of up-coming events you can either sign up to the mailing list or subscribe to the RSS feed."
-  },
-  {
-    "objectID": "posts/2024-04-18/index.html",
-    "href": "posts/2024-04-18/index.html",
-    "title": "Reproducibilitea 2024-04-18",
-    "section": "",
-    "text": "The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807"
-  },
-  {
-    "objectID": "posts/2024-04-18/index.html#what",
-    "href": "posts/2024-04-18/index.html#what",
-    "title": "Reproducibilitea 2024-04-18",
-    "section": "What",
-    "text": "What\nThe chosen articles that we will review and discuss is from Ecology and Evolution\n\nAccelerating the open research agenda to solve global challenges (2024). doi :10.1002/ece3.10887\n\n\nHarnessing science-based policy is key to addressing global challenges like the biodiversity and climate crises. Open research principles underpin effective science-based policy, but the uptake of these principles is likely constrained by the politicisation, commoditisation and conflicting motives of stakeholders in the research landscape. Here, using the mission and vision statements from 129 stakeholders from across the research landscape, we explore alignment in open research principles between stakeholders. We find poor alignment between stakeholders, largely focussed around journals, societies and funders, all of which have low open research language-use. We argue that this poor alignment stifles knowledge flow within the research landscape, ultimately limiting the mobilisation of impactful science-based policy. We offer recommendations on how the research landscape could embrace open research principles to accelerate societies’ ability to solve global challenges.\n\nZuzanna Zagrodzka (PhD Student, Ecology and Evolutionary Biology) will take us through her recently published paper looking at the alignment of open research policy in stakeholders, its impact and recommendations on improving the situation."
-  },
-  {
-    "objectID": "posts/2024-04-18/index.html#where",
-    "href": "posts/2024-04-18/index.html#where",
-    "title": "Reproducibilitea 2024-04-18",
-    "section": "Where",
-    "text": "Where\nThis event will be hybrid, if you wish to attend in person we will be meeting in Meeting Room 105 of the The Arts Tower.\nAdd the event to your Google Calendar using this link.\nIf you aren’t able to attend in person but would like to join the Journal Club you can do so using Google Meet."
-  },
-  {
-    "objectID": "posts/2024-04-18/index.html#when",
-    "href": "posts/2024-04-18/index.html#when",
-    "title": "Reproducibilitea 2024-04-18",
-    "section": "When",
-    "text": "When\n2024-04-18 @ 14:00"
-  },
-  {
-    "objectID": "posts/2024-04-18/index.html#future-events",
-    "href": "posts/2024-04-18/index.html#future-events",
-    "title": "Reproducibilitea 2024-04-18",
-    "section": "Future Events",
-    "text": "Future Events\nTo stay abreast of up-coming events you can either sign up to the mailing list or subscribe to the RSS feed."
-  },
-  {
-    "objectID": "posts/2024-10-24/index.html",
-    "href": "posts/2024-10-24/index.html",
-    "title": "Reproducibilitea 2024-10-24",
-    "section": "",
-    "text": "The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807"
-  },
-  {
-    "objectID": "posts/2024-10-24/index.html#what",
-    "href": "posts/2024-10-24/index.html#what",
-    "title": "Reproducibilitea 2024-10-24",
-    "section": "What",
-    "text": "What\nThe chosen article that we will review and discuss is from the Annual Review of Applied Linguistics.\n\nPromises and perils of positionality statements (2024). DOI:10.1017/S0267190524000035\n\n\nPositionality statements have increasingly become the norm in many strands of social science research, including applied linguistics. With reference to current research, theory, and the author’s own work, this paper reviews some of the promises and perils of such statements, including their performativity and lack of reflexivity. The author concludes by arguing that positionality statements need to offer both more and less, to be better targeted, and be more effectively and widely utilized within the field of applied linguistics.\n\nDr Jenni Adams (Open Research Manager) will take us through this paper highlighting some salient points and opening discussion."
-  },
-  {
-    "objectID": "posts/2024-10-24/index.html#where",
-    "href": "posts/2024-10-24/index.html#where",
-    "title": "Reproducibilitea 2024-10-24",
-    "section": "Where",
-    "text": "Where\nThis event will be hybrid, if you wish to attend in person we will be meeting in Meeting Room 315 of The Diamond.\nAdd the event to your Google Calendar using this link.\nIf you aren’t able to attend in person but would like to join the Journal Club you can do so using Google Meet."
-  },
-  {
-    "objectID": "posts/2024-10-24/index.html#when",
-    "href": "posts/2024-10-24/index.html#when",
-    "title": "Reproducibilitea 2024-10-24",
-    "section": "When",
-    "text": "When\n2024-10-24 @ 12:00"
-  },
-  {
-    "objectID": "posts/2024-10-24/index.html#future-events",
-    "href": "posts/2024-10-24/index.html#future-events",
-    "title": "Reproducibilitea 2024-10-24",
-    "section": "Future Events",
-    "text": "Future Events\nTo stay abreast of up-coming events you can either sign up to the mailing list or subscribe to the RSS feed."
-  },
-  {
-    "objectID": "posts/2025-03-03/index.html",
-    "href": "posts/2025-03-03/index.html",
-    "title": "Reproducibilitea 2025-03-03",
-    "section": "",
-    "text": "The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807"
-  },
-  {
-    "objectID": "posts/2025-03-03/index.html#what",
-    "href": "posts/2025-03-03/index.html#what",
-    "title": "Reproducibilitea 2025-03-03",
-    "section": "What",
-    "text": "What\nThe chosen article that we will review and discuss is…\n\nThe replication crisis has led to positive structural, procedural, and community changes | Communications Psychology\n\n\nThe emergence of large-scale replication projects yielding successful rates substantially lower than expected caused the behavioural, cognitive, and social sciences to experience a so-called ‘replication crisis’. In this Perspective, we reframe this ‘crisis’ through the lens of a credibility revolution, focusing on positive structural, procedural and community-driven changes. Second, we outline a path to expand ongoing advances and improvements. The credibility revolution has been an impetus to several substantive changes which will have a positive, long-term impact on our research environment.\n\nDr Romain Thomas (Head of Research Software Engineering, University of Sheffield) will take us through this paper highlighting some salient points and opening discussion."
-  },
-  {
-    "objectID": "posts/2025-03-03/index.html#where",
-    "href": "posts/2025-03-03/index.html#where",
-    "title": "Reproducibilitea 2025-03-03",
-    "section": "Where",
-    "text": "Where\nThis event will be hybrid, if you wish to attend in person we will be meeting in Room G07 of the Hicks Building, University of Sheffield.\nAdd the event to your Google Calendar using this link.\nIf you aren’t able to attend in person but would like to join the Journal Club you can do so using Google Meet."
-  },
-  {
-    "objectID": "posts/2025-03-03/index.html#when",
-    "href": "posts/2025-03-03/index.html#when",
-    "title": "Reproducibilitea 2025-03-03",
-    "section": "When",
-    "text": "When\n2025-03-03 @ 12:30-13:20"
-  },
-  {
-    "objectID": "posts/2025-03-03/index.html#future-events",
-    "href": "posts/2025-03-03/index.html#future-events",
-    "title": "Reproducibilitea 2025-03-03",
-    "section": "Future Events",
-    "text": "Future Events\nTo stay abreast of up-coming events you can either sign up to the mailing list or subscribe to the RSS feed."
-  },
-  {
-    "objectID": "posts/2024-01-18/index.html",
-    "href": "posts/2024-01-18/index.html",
-    "title": "Reproducibilitea 2024-01-18",
-    "section": "",
-    "text": "The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807"
-  },
-  {
-    "objectID": "posts/2024-01-18/index.html#what",
-    "href": "posts/2024-01-18/index.html#what",
-    "title": "Reproducibilitea 2024-01-18",
-    "section": "What",
-    "text": "What\nThe chosen article to that we will review and discuss is an essay from The Journal of Electronic Publishing\n\nPooley J. Surveillance Publishing The Journal of Electronic Publishing (2022). doi : 10.3998/jep.1874\n\n\nThis essay develops the idea of surveillance publishing, with special attention to the example of Elsevier. A scholarly publisher can be defined as a surveillance publisher if it derives a substantial proportion of its revenue from prediction products, fueled by data extracted from researcher behavior. The essay begins by tracing the Google search engine’s roots in bibliometrics, alongside a history of the citation analysis company that became, in 2016, Clarivate. The essay develops the idea of surveillance publishing by engaging with the work of Shoshana Zuboff, Jathan Sadowski, Mariano-Florentino Cuéllar, and Aziz Huq. The recent history of Elsevier is traced to describe the company’s research-lifecycle data-harvesting strategy, with the aim to develop and sell prediction products to unviersity and other customers. The essay concludes by considering some of the potential costs of surveillance publishing, as other big commercial publishers increasingly enter the predictive-analytics business. It is likely, I argue, that windfall subscription-and-APC profits in Elsevier’s “legacy” publishing business have financed its decade-long acquisition binge in analytics. The products’ purpose, moreover, is to streamline the top-down assessment and evaluation practices that have taken hold in recent decades. A final concern is that scholars will internalize an analytics mindset, one already encouraged by citation counts and impact factors.\n\nAdam Partridge (Open Research Training Lead / ELIXIR-UK DaSH Fellow at University of Sheffield) will give a brief summary of the article and will open discussion by highlighting some of the points he thought were good/bad about the paper."
-  },
-  {
-    "objectID": "posts/2024-01-18/index.html#where",
-    "href": "posts/2024-01-18/index.html#where",
-    "title": "Reproducibilitea 2024-01-18",
-    "section": "Where",
-    "text": "Where\nThis event will be hybrid, if you wish to attend in person we will be meeting in Meeting Room 1 of The Diamond, 32 Leavygreave Road, Sheffield, Broomhall, S3 7RD.\nAdd the event to your Google Calendar using this link.\nIf you aren’t able to attend in person but would like to join the Journal Club you can do so using Google Meet."
-  },
-  {
-    "objectID": "posts/2024-01-18/index.html#when",
-    "href": "posts/2024-01-18/index.html#when",
-    "title": "Reproducibilitea 2024-01-18",
-    "section": "When",
-    "text": "When\n2024-01-18 @ 12:00"
-  },
-  {
-    "objectID": "posts/2024-01-18/index.html#future-events",
-    "href": "posts/2024-01-18/index.html#future-events",
-    "title": "Reproducibilitea 2024-01-18",
-    "section": "Future Events",
-    "text": "Future Events\nTo stay abreast of up-coming events you can either sign up to the mailing list or subscribe to the RSS feed."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Welcome to the Reproducibilitea Sheffield Blog. This site details up-coming journal clubs and summaries of the discussions held at previous Journal Clubs. We aim to hold one Journal Club roughly every month where a topical paper on Open Research will be discussed, it would be great if people are able to read the paper before hand and note down what they liked and disliked about it and topics for discussion, but if you haven’t time don’t worry, a brief summary will be given at the start.\nTo find out about up-coming events you can join the mailing list or use the RSS feed. If you have any questions please get in touch.\nTo find out more about these journal clubs please visit the ReproducibiliTea - Journal Clubs for Open Science website."
-  },
-  {
     "objectID": "links.html",
     "href": "links.html",
     "title": "Links",
@@ -280,44 +56,37 @@
     "text": "The Carpentries\n\nData Carpentry\nLibrary Carpentry\nSoftware Carpentry\n\nProgramming Historian"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Reproducibilitea-Sheffield.github.io",
-    "section": "",
-    "text": "Reproducibilitea 2025-03-03\n\n\n\n\n\n\nreproducibilitea\n\n\nreproducibility\n\n\nsheffield\n\n\n\n\n\n\n\n\n\nDec 4, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nReproducibilitea 2025-01-29\n\n\n\n\n\n\nreproducibilitea\n\n\nreproducibility\n\n\nsheffield\n\n\n\n\n\n\n\n\n\nDec 4, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nReproducibilitea 2024-11-28\n\n\n\n\n\n\nreproducibilitea\n\n\nreproducibility\n\n\nsheffield\n\n\n\n\n\n\n\n\n\nOct 31, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nReproducibilitea 2024-10-24\n\n\n\n\n\n\nreproducibilitea\n\n\nreproducibility\n\n\nsheffield\n\n\n\n\n\n\n\n\n\nOct 2, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nReproducibilitea 2024-07-12\n\n\n\n\n\n\nreproducibilitea\n\n\nreproducibility\n\n\nsheffield\n\n\n\n\n\n\n\n\n\nJun 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nReproducibilitea 2024-05-16\n\n\n\n\n\n\nreproducibilitea\n\n\nreproducibility\n\n\nsheffield\n\n\n\n\n\n\n\n\n\nApr 24, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nReproducibilitea 2024-04-18\n\n\n\n\n\n\nreproducibilitea\n\n\nreproducibility\n\n\nsheffield\n\n\n\n\n\n\n\n\n\nApr 18, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nReproducibilitea 2024-03-26\n\n\n\n\n\n\nreproducibilitea\n\n\nreproducibility\n\n\nsheffield\n\n\n\n\n\n\n\n\n\nMar 26, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nReproducibilitea 2024-01-18\n\n\n\n\n\n\nreproducibilitea\n\n\nreproducibility\n\n\nsheffield\n\n\n\n\n\n\n\n\n\nJan 18, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nReproducibilitea 2023-12-06\n\n\n\n\n\n\nreproducibilitea\n\n\nreproducibility\n\n\nsheffield\n\n\n\n\n\n\n\n\n\nDec 6, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nReproducibilitea Sheffield Reboot\n\n\n\n\n\n\nreproducibilitea\n\n\nreproducibility\n\n\nsheffield\n\n\n\n\n\n\n\n\n\nAug 14, 2023\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/2024-11-28/index.html",
-    "href": "posts/2024-11-28/index.html",
-    "title": "Reproducibilitea 2024-11-28",
+    "objectID": "posts/2024-03-26/index.html",
+    "href": "posts/2024-03-26/index.html",
+    "title": "Reproducibilitea 2024-03-26",
     "section": "",
     "text": "The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807"
   },
   {
-    "objectID": "posts/2024-11-28/index.html#what",
-    "href": "posts/2024-11-28/index.html#what",
-    "title": "Reproducibilitea 2024-11-28",
+    "objectID": "posts/2024-03-26/index.html#what",
+    "href": "posts/2024-03-26/index.html#what",
+    "title": "Reproducibilitea 2024-03-26",
     "section": "What",
-    "text": "What\nThe chosen article that we will review and discuss is…\n\n“Best Paper” awards lack transparency, inclusivity, and support for Open Science | PLOS Biology\n\n\nAwards can propel academic careers. They also reflect the culture and values of the scientific community. But do awards incentivize greater transparency, inclusivity, and openness in science? Our cross-disciplinary survey of 222 awards for the “best” journal articles across all 27 SCImago subject areas revealed that journals and learned societies administering such awards generally publish little detail on their procedures and criteria. Award descriptions were brief, rarely including contact details or information on the nominations pool. Nominations of underrepresented groups were not explicitly encouraged, and concepts that align with Open Science were almost absent from the assessment criteria. At the same time, 10% of awards, especially the recently established ones, tended to use article-level impact metrics. USA-affiliated researchers dominated the winner’s pool (48%), while researchers from the Global South were uncommon (11%). Sixty-one percent of individual winners were men. Overall, Best Paper awards miss the global calls for greater transparency and equitable access to academic recognition. We provide concrete and implementable recommendations for scientific awards to improve the scientific recognition system and incentives for better scientific practice.\n\nZuzzana Zagrodzka (PhD Student) will take us through this paper highlighting some salient points and opening discussion."
+    "text": "What\nThe chosen articles that we will review and discuss are from Educational Research and Evaluation\n\nReplication is relevant to qualitative research (2022). doi : 10.1080/13803611.2021.2022310\n\n\nReplication has received increasing attention over the last decade. This comes on the heels of prominent instances of data fabrication (National Academies of Sciences, Engineering, and Medicine, 2017) and estimates that few studies attempt to replicate previous findings (Makel & Plucker, 2014). Replication has been called the Supreme Court of science (Collins, 1985), as well as a basic building block of scholarship. One persistent question in informal conversations that we have not seen addressed in formal writing, is replication’s relevance to qualitative research. Qualitative research is “a situated activity that locates the observer in the world” and “consists of a set of interpretive, material practices that make the world visible” (Denzin & Lincoln, 2011, p. 3). Some have argued that replication “missed the point” of qualitative research (Pratt et al., 2020, p. 3). However, in a survey of nearly 1,500 recently published education researchers, less than 10% of qualitative researchers reported that replication should never be used (Makel et al., 2021). Given the prevalence of qualitative research in education, it is important to examine replication’s relevance. In this commentary, we argue that replication is relevant to the qualitative lens in at least three ways. First, replication supports the established values in qualitative research of transparency and intentionality. Second, replication can be used to assess the well-established tradition of transferability. Third, replication can evaluate connections between reflexivity, as evidenced by positionality statements, and qualitative research findings.\n\n…and an article in response…\n\nIs replication possible in qualitative research? A response to Makel et al. doi: 10.1080/13803611.2024.2314526\n\n\nThere has been much debate in recent years about how open research practices, which have been promoted in efforts to improve research robustness, may (not) be appropriate for qualitative methodologies, particularly in educational research. Among these is a concern for replication efforts. Makel et al. (Citation2022) make the case that “replication is relevant to qualitative research”. The authors argue that concerns surrounding the transferability, intentionality, and transparency of qualitative research may be eased, or responded to, by replication studies. Here, I argue that there are three fundamental questions that need unpacking before declarative claims can be made about the relevance of replication to qualitative research. This includes critical questioning of what we mean by: replication, qualitative research, and rigour. I address each of these issues and encourage a more nuanced appraisal of how replication may, or may not, be epistemologically, ontologically, or methodologically compatible with the goals of qualitative research.\n\nJenni Adams (Open Research Manager, Scholarly Communications Team) will give a brief summary of the article and will open discussion by highlighting some of the points they thought were good/bad about the paper."
   },
   {
-    "objectID": "posts/2024-11-28/index.html#where",
-    "href": "posts/2024-11-28/index.html#where",
-    "title": "Reproducibilitea 2024-11-28",
+    "objectID": "posts/2024-03-26/index.html#where",
+    "href": "posts/2024-03-26/index.html#where",
+    "title": "Reproducibilitea 2024-03-26",
     "section": "Where",
-    "text": "Where\nThis event will be hybrid, if you wish to attend in person we will be meeting in G22 Blue Room of the Regents Court.\nAdd the event to your Google Calendar using this link.\nIf you aren’t able to attend in person but would like to join the Journal Club you can do so using Google Meet."
+    "text": "Where\nThis event will be hybrid, if you wish to attend in person we will be meeting in View Room 4 on the 4th Floor of the The Students Union.\nAdd the event to your Google Calendar using this link.\nIf you aren’t able to attend in person but would like to join the Journal Club you can do so using Google Meet."
   },
   {
-    "objectID": "posts/2024-11-28/index.html#when",
-    "href": "posts/2024-11-28/index.html#when",
-    "title": "Reproducibilitea 2024-11-28",
+    "objectID": "posts/2024-03-26/index.html#when",
+    "href": "posts/2024-03-26/index.html#when",
+    "title": "Reproducibilitea 2024-03-26",
     "section": "When",
-    "text": "When\n2024-11-28 @ 12:30"
+    "text": "When\n2024-03-26 @ 12:00"
   },
   {
-    "objectID": "posts/2024-11-28/index.html#future-events",
-    "href": "posts/2024-11-28/index.html#future-events",
-    "title": "Reproducibilitea 2024-11-28",
+    "objectID": "posts/2024-03-26/index.html#future-events",
+    "href": "posts/2024-03-26/index.html#future-events",
+    "title": "Reproducibilitea 2024-03-26",
     "section": "Future Events",
     "text": "Future Events\nTo stay abreast of up-coming events you can either sign up to the mailing list or subscribe to the RSS feed."
   },
@@ -357,37 +126,198 @@
     "text": "Future Events\nTo stay abreast of up-coming events you can either sign up to the mailing list or subscribe to the RSS feed."
   },
   {
-    "objectID": "posts/2024-03-26/index.html",
-    "href": "posts/2024-03-26/index.html",
-    "title": "Reproducibilitea 2024-03-26",
+    "objectID": "posts/reboot/index.html",
+    "href": "posts/reboot/index.html",
+    "title": "Reproducibilitea Sheffield Reboot",
+    "section": "",
+    "text": "Reproducibilitea Sheffield is back!\nThis site will hold details of up-coming Journal Clubs and provides links to useful resources.\nTo stay abreast of up-coming events you can either sign up to the mailing list or subscribe to the RSS feed."
+  },
+  {
+    "objectID": "posts/2024-01-18/index.html",
+    "href": "posts/2024-01-18/index.html",
+    "title": "Reproducibilitea 2024-01-18",
     "section": "",
     "text": "The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807"
   },
   {
-    "objectID": "posts/2024-03-26/index.html#what",
-    "href": "posts/2024-03-26/index.html#what",
-    "title": "Reproducibilitea 2024-03-26",
+    "objectID": "posts/2024-01-18/index.html#what",
+    "href": "posts/2024-01-18/index.html#what",
+    "title": "Reproducibilitea 2024-01-18",
     "section": "What",
-    "text": "What\nThe chosen articles that we will review and discuss are from Educational Research and Evaluation\n\nReplication is relevant to qualitative research (2022). doi : 10.1080/13803611.2021.2022310\n\n\nReplication has received increasing attention over the last decade. This comes on the heels of prominent instances of data fabrication (National Academies of Sciences, Engineering, and Medicine, 2017) and estimates that few studies attempt to replicate previous findings (Makel & Plucker, 2014). Replication has been called the Supreme Court of science (Collins, 1985), as well as a basic building block of scholarship. One persistent question in informal conversations that we have not seen addressed in formal writing, is replication’s relevance to qualitative research. Qualitative research is “a situated activity that locates the observer in the world” and “consists of a set of interpretive, material practices that make the world visible” (Denzin & Lincoln, 2011, p. 3). Some have argued that replication “missed the point” of qualitative research (Pratt et al., 2020, p. 3). However, in a survey of nearly 1,500 recently published education researchers, less than 10% of qualitative researchers reported that replication should never be used (Makel et al., 2021). Given the prevalence of qualitative research in education, it is important to examine replication’s relevance. In this commentary, we argue that replication is relevant to the qualitative lens in at least three ways. First, replication supports the established values in qualitative research of transparency and intentionality. Second, replication can be used to assess the well-established tradition of transferability. Third, replication can evaluate connections between reflexivity, as evidenced by positionality statements, and qualitative research findings.\n\n…and an article in response…\n\nIs replication possible in qualitative research? A response to Makel et al. doi: 10.1080/13803611.2024.2314526\n\n\nThere has been much debate in recent years about how open research practices, which have been promoted in efforts to improve research robustness, may (not) be appropriate for qualitative methodologies, particularly in educational research. Among these is a concern for replication efforts. Makel et al. (Citation2022) make the case that “replication is relevant to qualitative research”. The authors argue that concerns surrounding the transferability, intentionality, and transparency of qualitative research may be eased, or responded to, by replication studies. Here, I argue that there are three fundamental questions that need unpacking before declarative claims can be made about the relevance of replication to qualitative research. This includes critical questioning of what we mean by: replication, qualitative research, and rigour. I address each of these issues and encourage a more nuanced appraisal of how replication may, or may not, be epistemologically, ontologically, or methodologically compatible with the goals of qualitative research.\n\nJenni Adams (Open Research Manager, Scholarly Communications Team) will give a brief summary of the article and will open discussion by highlighting some of the points they thought were good/bad about the paper."
+    "text": "What\nThe chosen article to that we will review and discuss is an essay from The Journal of Electronic Publishing\n\nPooley J. Surveillance Publishing The Journal of Electronic Publishing (2022). doi : 10.3998/jep.1874\n\n\nThis essay develops the idea of surveillance publishing, with special attention to the example of Elsevier. A scholarly publisher can be defined as a surveillance publisher if it derives a substantial proportion of its revenue from prediction products, fueled by data extracted from researcher behavior. The essay begins by tracing the Google search engine’s roots in bibliometrics, alongside a history of the citation analysis company that became, in 2016, Clarivate. The essay develops the idea of surveillance publishing by engaging with the work of Shoshana Zuboff, Jathan Sadowski, Mariano-Florentino Cuéllar, and Aziz Huq. The recent history of Elsevier is traced to describe the company’s research-lifecycle data-harvesting strategy, with the aim to develop and sell prediction products to unviersity and other customers. The essay concludes by considering some of the potential costs of surveillance publishing, as other big commercial publishers increasingly enter the predictive-analytics business. It is likely, I argue, that windfall subscription-and-APC profits in Elsevier’s “legacy” publishing business have financed its decade-long acquisition binge in analytics. The products’ purpose, moreover, is to streamline the top-down assessment and evaluation practices that have taken hold in recent decades. A final concern is that scholars will internalize an analytics mindset, one already encouraged by citation counts and impact factors.\n\nAdam Partridge (Open Research Training Lead / ELIXIR-UK DaSH Fellow at University of Sheffield) will give a brief summary of the article and will open discussion by highlighting some of the points he thought were good/bad about the paper."
   },
   {
-    "objectID": "posts/2024-03-26/index.html#where",
-    "href": "posts/2024-03-26/index.html#where",
-    "title": "Reproducibilitea 2024-03-26",
+    "objectID": "posts/2024-01-18/index.html#where",
+    "href": "posts/2024-01-18/index.html#where",
+    "title": "Reproducibilitea 2024-01-18",
     "section": "Where",
-    "text": "Where\nThis event will be hybrid, if you wish to attend in person we will be meeting in View Room 4 on the 4th Floor of the The Students Union.\nAdd the event to your Google Calendar using this link.\nIf you aren’t able to attend in person but would like to join the Journal Club you can do so using Google Meet."
+    "text": "Where\nThis event will be hybrid, if you wish to attend in person we will be meeting in Meeting Room 1 of The Diamond, 32 Leavygreave Road, Sheffield, Broomhall, S3 7RD.\nAdd the event to your Google Calendar using this link.\nIf you aren’t able to attend in person but would like to join the Journal Club you can do so using Google Meet."
   },
   {
-    "objectID": "posts/2024-03-26/index.html#when",
-    "href": "posts/2024-03-26/index.html#when",
-    "title": "Reproducibilitea 2024-03-26",
+    "objectID": "posts/2024-01-18/index.html#when",
+    "href": "posts/2024-01-18/index.html#when",
+    "title": "Reproducibilitea 2024-01-18",
     "section": "When",
-    "text": "When\n2024-03-26 @ 12:00"
+    "text": "When\n2024-01-18 @ 12:00"
   },
   {
-    "objectID": "posts/2024-03-26/index.html#future-events",
-    "href": "posts/2024-03-26/index.html#future-events",
-    "title": "Reproducibilitea 2024-03-26",
+    "objectID": "posts/2024-01-18/index.html#future-events",
+    "href": "posts/2024-01-18/index.html#future-events",
+    "title": "Reproducibilitea 2024-01-18",
+    "section": "Future Events",
+    "text": "Future Events\nTo stay abreast of up-coming events you can either sign up to the mailing list or subscribe to the RSS feed."
+  },
+  {
+    "objectID": "posts/2024-05-16/index.html",
+    "href": "posts/2024-05-16/index.html",
+    "title": "Reproducibilitea 2024-05-16",
+    "section": "",
+    "text": "The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807"
+  },
+  {
+    "objectID": "posts/2024-05-16/index.html#what",
+    "href": "posts/2024-05-16/index.html#what",
+    "title": "Reproducibilitea 2024-05-16",
+    "section": "What",
+    "text": "What\nThe chosen article that we will review and discuss is from F1000 Research\n\nTen considerations for open peer review (2018). doi:10.12688/f1000research.15334.1\n\n\nOpen peer review (OPR), as with other elements of open science and open research, is on the rise. It aims to bring greater transparency and participation to formal and informal peer review processes. But what is meant by `open peer review’, and what advantages and disadvantages does it have over standard forms of review? How do authors or reviewers approach OPR? And what pitfalls and opportunities should you look out for? Here, we propose ten considerations for OPR, drawing on discussions with authors, reviewers, editors, publishers and librarians, and provide a pragmatic, hands-on introduction to these issues. We cover basic principles and summarise best practices, indicating how to use OPR to achieve best value and mutual benefits for all stakeholders and the wider research community.\n\nJim Uttley (Lectuer in Architectural Science) will take us through this paper highlighting some salient points and opening discussion."
+  },
+  {
+    "objectID": "posts/2024-05-16/index.html#where",
+    "href": "posts/2024-05-16/index.html#where",
+    "title": "Reproducibilitea 2024-05-16",
+    "section": "Where",
+    "text": "Where\nThis event will be hybrid, if you wish to attend in person we will be meeting in Meeting Room G07 of the Hicks Building.\nAdd the event to your Google Calendar using this link.\nIf you aren’t able to attend in person but would like to join the Journal Club you can do so using Google Meet."
+  },
+  {
+    "objectID": "posts/2024-05-16/index.html#when",
+    "href": "posts/2024-05-16/index.html#when",
+    "title": "Reproducibilitea 2024-05-16",
+    "section": "When",
+    "text": "When\n2024-05-16 @ 12:00"
+  },
+  {
+    "objectID": "posts/2024-05-16/index.html#future-events",
+    "href": "posts/2024-05-16/index.html#future-events",
+    "title": "Reproducibilitea 2024-05-16",
+    "section": "Future Events",
+    "text": "Future Events\nTo stay abreast of up-coming events you can either sign up to the mailing list or subscribe to the RSS feed."
+  },
+  {
+    "objectID": "posts/2023-12/index.html",
+    "href": "posts/2023-12/index.html",
+    "title": "Reproducibilitea 2023-12-06",
+    "section": "",
+    "text": "The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807"
+  },
+  {
+    "objectID": "posts/2023-12/index.html#what",
+    "href": "posts/2023-12/index.html#what",
+    "title": "Reproducibilitea 2023-12-06",
+    "section": "What",
+    "text": "What\nThe chosen article to that we review and discuss is a recent publication Nature Human Behaviour\n\nProtzko, J., Krosnick, J., Nelson, L. et al. High replicability of newly discovered social-behavioural findings is achievable. Nat Hum Behav (2023). doi : 10.1038/s41562-023-01749-9\n\n\nFailures to replicate evidence of new discoveries have forced scientists to ask whether this unreliability is due to suboptimal implementation of methods or whether presumptively optimal methods are not, in fact, optimal. This paper reports an investigation by four coordinated laboratories of the prospective replicability of 16 novel experimental findings using rigour-enhancing practices: confirmatory tests, large sample sizes, preregistration and methodological transparency. In contrast to past systematic replication efforts that reported replication rates averaging 50%, replication attempts here produced the expected effects with significance testing (P &lt; 0.05) in 86% of attempts, slightly exceeding the maximum expected replicability based on observed effect sizes and sample sizes. When one lab attempted to replicate an effect discovered by another lab, the effect size in the replications was 97% that in the original study. This high replication rate justifies confidence in rigour-enhancing methods to increase the replicability of new discoveries.\n\nNeil Shephard (Research Software Engineer at University of Sheffield) will give a brief summary of the article and will open discussion by highlighting some of the points he thought were good/bad about the paper."
+  },
+  {
+    "objectID": "posts/2023-12/index.html#where",
+    "href": "posts/2023-12/index.html#where",
+    "title": "Reproducibilitea 2023-12-06",
+    "section": "Where",
+    "text": "Where\nThis event will be hybrid, if you wish to attend in person we will be meeting in Workroom 2 of The Diamond, 32 Leavygreave Road, Sheffield, Broomhall, S3 7RD.\nAdd the event to your Google Calendar using this link.\nIf you aren’t able to attend in person but would like to join the Journal Club you can do so using Google Meet."
+  },
+  {
+    "objectID": "posts/2023-12/index.html#when",
+    "href": "posts/2023-12/index.html#when",
+    "title": "Reproducibilitea 2023-12-06",
+    "section": "When",
+    "text": "When\n2023-12-06 @ 13:15 Sheffield Reproducibilitea Journal Club is back in time to see 2023 out."
+  },
+  {
+    "objectID": "posts/2023-12/index.html#future-events",
+    "href": "posts/2023-12/index.html#future-events",
+    "title": "Reproducibilitea 2023-12-06",
+    "section": "Future Events",
+    "text": "Future Events\nTo stay abreast of up-coming events you can either sign up to the mailing list or subscribe to the RSS feed."
+  },
+  {
+    "objectID": "posts/2023-12/index.html#follow-up",
+    "href": "posts/2023-12/index.html#follow-up",
+    "title": "Reproducibilitea 2023-12-06",
+    "section": "Follow-up",
+    "text": "Follow-up\nThis paper was, as is now noted, Retractaed as it was pointed out that it was itself not adhering to the standards it was suggesting should be. There is some further discussion on the Statistical Modeling, Causal Inference and Social Science blog What’s the story behind that paper by the Center for Open Science team that just got retracted?."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Welcome to the Reproducibilitea Sheffield Blog. This site details up-coming journal clubs and summaries of the discussions held at previous Journal Clubs. We aim to hold one Journal Club roughly every month where a topical paper on Open Research will be discussed, it would be great if people are able to read the paper before hand and note down what they liked and disliked about it and topics for discussion, but if you haven’t time don’t worry, a brief summary will be given at the start.\nTo find out about up-coming events you can join the mailing list or use the RSS feed. If you have any questions please get in touch.\nTo find out more about these journal clubs please visit the ReproducibiliTea - Journal Clubs for Open Science website."
+  },
+  {
+    "objectID": "posts/2025-03-03/index.html",
+    "href": "posts/2025-03-03/index.html",
+    "title": "Reproducibilitea 2025-03-03",
+    "section": "",
+    "text": "The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807"
+  },
+  {
+    "objectID": "posts/2025-03-03/index.html#what",
+    "href": "posts/2025-03-03/index.html#what",
+    "title": "Reproducibilitea 2025-03-03",
+    "section": "What",
+    "text": "What\nThe chosen article that we will review and discuss is…\n\nThe replication crisis has led to positive structural, procedural, and community changes | Communications Psychology\n\n\nThe emergence of large-scale replication projects yielding successful rates substantially lower than expected caused the behavioural, cognitive, and social sciences to experience a so-called ‘replication crisis’. In this Perspective, we reframe this ‘crisis’ through the lens of a credibility revolution, focusing on positive structural, procedural and community-driven changes. Second, we outline a path to expand ongoing advances and improvements. The credibility revolution has been an impetus to several substantive changes which will have a positive, long-term impact on our research environment.\n\nDr Romain Thomas (Head of Research Software Engineering, University of Sheffield) will take us through this paper highlighting some salient points and opening discussion."
+  },
+  {
+    "objectID": "posts/2025-03-03/index.html#where",
+    "href": "posts/2025-03-03/index.html#where",
+    "title": "Reproducibilitea 2025-03-03",
+    "section": "Where",
+    "text": "Where\nThis event will be hybrid, if you wish to attend in person we will be meeting in Room G07 of the Hicks Building, University of Sheffield.\nAdd the event to your Google Calendar using this link.\nIf you aren’t able to attend in person but would like to join the Journal Club you can do so using Google Meet."
+  },
+  {
+    "objectID": "posts/2025-03-03/index.html#when",
+    "href": "posts/2025-03-03/index.html#when",
+    "title": "Reproducibilitea 2025-03-03",
+    "section": "When",
+    "text": "When\n2025-03-03 @ 12:30-13:20"
+  },
+  {
+    "objectID": "posts/2025-03-03/index.html#future-events",
+    "href": "posts/2025-03-03/index.html#future-events",
+    "title": "Reproducibilitea 2025-03-03",
+    "section": "Future Events",
+    "text": "Future Events\nTo stay abreast of up-coming events you can either sign up to the mailing list or subscribe to the RSS feed."
+  },
+  {
+    "objectID": "posts/2024-10-24/index.html",
+    "href": "posts/2024-10-24/index.html",
+    "title": "Reproducibilitea 2024-10-24",
+    "section": "",
+    "text": "The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807"
+  },
+  {
+    "objectID": "posts/2024-10-24/index.html#what",
+    "href": "posts/2024-10-24/index.html#what",
+    "title": "Reproducibilitea 2024-10-24",
+    "section": "What",
+    "text": "What\nThe chosen article that we will review and discuss is from the Annual Review of Applied Linguistics.\n\nPromises and perils of positionality statements (2024). DOI:10.1017/S0267190524000035\n\n\nPositionality statements have increasingly become the norm in many strands of social science research, including applied linguistics. With reference to current research, theory, and the author’s own work, this paper reviews some of the promises and perils of such statements, including their performativity and lack of reflexivity. The author concludes by arguing that positionality statements need to offer both more and less, to be better targeted, and be more effectively and widely utilized within the field of applied linguistics.\n\nDr Jenni Adams (Open Research Manager) will take us through this paper highlighting some salient points and opening discussion."
+  },
+  {
+    "objectID": "posts/2024-10-24/index.html#where",
+    "href": "posts/2024-10-24/index.html#where",
+    "title": "Reproducibilitea 2024-10-24",
+    "section": "Where",
+    "text": "Where\nThis event will be hybrid, if you wish to attend in person we will be meeting in Meeting Room 315 of The Diamond.\nAdd the event to your Google Calendar using this link.\nIf you aren’t able to attend in person but would like to join the Journal Club you can do so using Google Meet."
+  },
+  {
+    "objectID": "posts/2024-10-24/index.html#when",
+    "href": "posts/2024-10-24/index.html#when",
+    "title": "Reproducibilitea 2024-10-24",
+    "section": "When",
+    "text": "When\n2024-10-24 @ 12:00"
+  },
+  {
+    "objectID": "posts/2024-10-24/index.html#future-events",
+    "href": "posts/2024-10-24/index.html#future-events",
+    "title": "Reproducibilitea 2024-10-24",
     "section": "Future Events",
     "text": "Future Events\nTo stay abreast of up-coming events you can either sign up to the mailing list or subscribe to the RSS feed."
   },
@@ -427,10 +357,80 @@
     "text": "Future Events\nTo stay abreast of up-coming events you can either sign up to the mailing list or subscribe to the RSS feed."
   },
   {
-    "objectID": "posts/reboot/index.html",
-    "href": "posts/reboot/index.html",
-    "title": "Reproducibilitea Sheffield Reboot",
+    "objectID": "posts/2024-11-28/index.html",
+    "href": "posts/2024-11-28/index.html",
+    "title": "Reproducibilitea 2024-11-28",
     "section": "",
-    "text": "Reproducibilitea Sheffield is back!\nThis site will hold details of up-coming Journal Clubs and provides links to useful resources.\nTo stay abreast of up-coming events you can either sign up to the mailing list or subscribe to the RSS feed."
+    "text": "The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807"
+  },
+  {
+    "objectID": "posts/2024-11-28/index.html#what",
+    "href": "posts/2024-11-28/index.html#what",
+    "title": "Reproducibilitea 2024-11-28",
+    "section": "What",
+    "text": "What\nThe chosen article that we will review and discuss is…\n\n“Best Paper” awards lack transparency, inclusivity, and support for Open Science | PLOS Biology\n\n\nAwards can propel academic careers. They also reflect the culture and values of the scientific community. But do awards incentivize greater transparency, inclusivity, and openness in science? Our cross-disciplinary survey of 222 awards for the “best” journal articles across all 27 SCImago subject areas revealed that journals and learned societies administering such awards generally publish little detail on their procedures and criteria. Award descriptions were brief, rarely including contact details or information on the nominations pool. Nominations of underrepresented groups were not explicitly encouraged, and concepts that align with Open Science were almost absent from the assessment criteria. At the same time, 10% of awards, especially the recently established ones, tended to use article-level impact metrics. USA-affiliated researchers dominated the winner’s pool (48%), while researchers from the Global South were uncommon (11%). Sixty-one percent of individual winners were men. Overall, Best Paper awards miss the global calls for greater transparency and equitable access to academic recognition. We provide concrete and implementable recommendations for scientific awards to improve the scientific recognition system and incentives for better scientific practice.\n\nZuzzana Zagrodzka (PhD Student) will take us through this paper highlighting some salient points and opening discussion."
+  },
+  {
+    "objectID": "posts/2024-11-28/index.html#where",
+    "href": "posts/2024-11-28/index.html#where",
+    "title": "Reproducibilitea 2024-11-28",
+    "section": "Where",
+    "text": "Where\nThis event will be hybrid, if you wish to attend in person we will be meeting in G22 Blue Room of the Regents Court.\nAdd the event to your Google Calendar using this link.\nIf you aren’t able to attend in person but would like to join the Journal Club you can do so using Google Meet."
+  },
+  {
+    "objectID": "posts/2024-11-28/index.html#when",
+    "href": "posts/2024-11-28/index.html#when",
+    "title": "Reproducibilitea 2024-11-28",
+    "section": "When",
+    "text": "When\n2024-11-28 @ 12:30"
+  },
+  {
+    "objectID": "posts/2024-11-28/index.html#future-events",
+    "href": "posts/2024-11-28/index.html#future-events",
+    "title": "Reproducibilitea 2024-11-28",
+    "section": "Future Events",
+    "text": "Future Events\nTo stay abreast of up-coming events you can either sign up to the mailing list or subscribe to the RSS feed."
+  },
+  {
+    "objectID": "posts/2024-04-18/index.html",
+    "href": "posts/2024-04-18/index.html",
+    "title": "Reproducibilitea 2024-04-18",
+    "section": "",
+    "text": "The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807"
+  },
+  {
+    "objectID": "posts/2024-04-18/index.html#what",
+    "href": "posts/2024-04-18/index.html#what",
+    "title": "Reproducibilitea 2024-04-18",
+    "section": "What",
+    "text": "What\nThe chosen articles that we will review and discuss is from Ecology and Evolution\n\nAccelerating the open research agenda to solve global challenges (2024). doi :10.1002/ece3.10887\n\n\nHarnessing science-based policy is key to addressing global challenges like the biodiversity and climate crises. Open research principles underpin effective science-based policy, but the uptake of these principles is likely constrained by the politicisation, commoditisation and conflicting motives of stakeholders in the research landscape. Here, using the mission and vision statements from 129 stakeholders from across the research landscape, we explore alignment in open research principles between stakeholders. We find poor alignment between stakeholders, largely focussed around journals, societies and funders, all of which have low open research language-use. We argue that this poor alignment stifles knowledge flow within the research landscape, ultimately limiting the mobilisation of impactful science-based policy. We offer recommendations on how the research landscape could embrace open research principles to accelerate societies’ ability to solve global challenges.\n\nZuzanna Zagrodzka (PhD Student, Ecology and Evolutionary Biology) will take us through her recently published paper looking at the alignment of open research policy in stakeholders, its impact and recommendations on improving the situation."
+  },
+  {
+    "objectID": "posts/2024-04-18/index.html#where",
+    "href": "posts/2024-04-18/index.html#where",
+    "title": "Reproducibilitea 2024-04-18",
+    "section": "Where",
+    "text": "Where\nThis event will be hybrid, if you wish to attend in person we will be meeting in Meeting Room 105 of the The Arts Tower.\nAdd the event to your Google Calendar using this link.\nIf you aren’t able to attend in person but would like to join the Journal Club you can do so using Google Meet."
+  },
+  {
+    "objectID": "posts/2024-04-18/index.html#when",
+    "href": "posts/2024-04-18/index.html#when",
+    "title": "Reproducibilitea 2024-04-18",
+    "section": "When",
+    "text": "When\n2024-04-18 @ 14:00"
+  },
+  {
+    "objectID": "posts/2024-04-18/index.html#future-events",
+    "href": "posts/2024-04-18/index.html#future-events",
+    "title": "Reproducibilitea 2024-04-18",
+    "section": "Future Events",
+    "text": "Future Events\nTo stay abreast of up-coming events you can either sign up to the mailing list or subscribe to the RSS feed."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Reproducibilitea-Sheffield.github.io",
+    "section": "",
+    "text": "Reproducibilitea 2025-03-03\n\n\n\n\n\n\nreproducibilitea\n\n\nreproducibility\n\n\nsheffield\n\n\n\n\n\n\n\n\n\nJan 20, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nReproducibilitea 2025-01-29\n\n\n\n\n\n\nreproducibilitea\n\n\nreproducibility\n\n\nsheffield\n\n\n\n\n\n\n\n\n\nDec 4, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nReproducibilitea 2024-11-28\n\n\n\n\n\n\nreproducibilitea\n\n\nreproducibility\n\n\nsheffield\n\n\n\n\n\n\n\n\n\nOct 31, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nReproducibilitea 2024-10-24\n\n\n\n\n\n\nreproducibilitea\n\n\nreproducibility\n\n\nsheffield\n\n\n\n\n\n\n\n\n\nOct 2, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nReproducibilitea 2024-07-12\n\n\n\n\n\n\nreproducibilitea\n\n\nreproducibility\n\n\nsheffield\n\n\n\n\n\n\n\n\n\nJun 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nReproducibilitea 2024-05-16\n\n\n\n\n\n\nreproducibilitea\n\n\nreproducibility\n\n\nsheffield\n\n\n\n\n\n\n\n\n\nApr 24, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nReproducibilitea 2024-04-18\n\n\n\n\n\n\nreproducibilitea\n\n\nreproducibility\n\n\nsheffield\n\n\n\n\n\n\n\n\n\nApr 18, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nReproducibilitea 2024-03-26\n\n\n\n\n\n\nreproducibilitea\n\n\nreproducibility\n\n\nsheffield\n\n\n\n\n\n\n\n\n\nMar 26, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nReproducibilitea 2024-01-18\n\n\n\n\n\n\nreproducibilitea\n\n\nreproducibility\n\n\nsheffield\n\n\n\n\n\n\n\n\n\nJan 18, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nReproducibilitea 2023-12-06\n\n\n\n\n\n\nreproducibilitea\n\n\nreproducibility\n\n\nsheffield\n\n\n\n\n\n\n\n\n\nDec 6, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nReproducibilitea Sheffield Reboot\n\n\n\n\n\n\nreproducibilitea\n\n\nreproducibility\n\n\nsheffield\n\n\n\n\n\n\n\n\n\nAug 14, 2023\n\n\n\n\n\n\nNo matching items"
   }
 ]
