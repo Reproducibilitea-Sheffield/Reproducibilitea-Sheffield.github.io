@@ -1,0 +1,62 @@
+---
+title: "Reproducibilitea 2025-10-21"
+date: "2025-08-08"
+categories: [reproducibilitea, reproducibility, sheffield]
+image: ./open-development.jpg
+from: markdown+emoji
+toc: true
+toc-depth: 4
+toc-location: right
+execute:
+  code_fold: true
+  code_link: true
+  code_tools: true
+  fig-cap-location: top
+  tbl-cap-location: top
+  warning: false
+---
+![The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI:
+[10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)](./open-development.jpg)
+
+## What
+
+The chosen article that we will review and discuss is...
+
+- [The conundrum of sharing research data](https://onlinelibrary.wiley.com/doi/abs/10.1002/asi.22634)
+  ([doi:10.1002/asi.22634](https://doi.org/10.1002/asi.22634))
+
+> Researchers are producing an unprecedented deluge of data by using new methods and instrumentation. Others may wish to
+> mine these data for new discoveries and innovations. However, research data are not readily available as sharing is
+> common in only a few fields such as astronomy and genomics. Data sharing practices in other fields vary
+> widely. Moreover, research data take many forms, are handled in many ways, using many approaches, and often are
+> difficult to interpret once removed from their initial context. Data sharing is thus a conundrum. Four rationales for
+> sharing data are examined, drawing examples from the sciences, social sciences, and humanities: (1) to reproduce or to
+> verify research, (2) to make results of publicly funded research available to the public, (3) to enable others to ask
+> new questions of extant data, and (4) to advance the state of research and innovation. These rationales differ by the
+> arguments for sharing, by beneficiaries, and by the motivations and incentives of the many stakeholders involved. The
+> challenges are to understand which data might be shared, by whom, with whom, under what conditions, why, and to what
+> effects. Answers will inform data policy and practice.
+
+[Dr Ester Ehiyazaryan-White, Senior Lecturer in Childhood
+Studies](https://www.shu.ac.uk/about-us/our-people/staff-profiles/ester-ehiyazaryan-white) will take us through this
+paper highlighting some salient points and opening discussion.
+
+## Where
+
+This event will be hybrid, if you wish to attend in person we will be meeting in Room 12.1.01 (Level 1) of the [Charles
+Street Building](https://www.openstreetmap.org/way/104031232).
+Add the event to your Google Calendar using this
+[link](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MjVraDQ2bjJvM3NkMTNkM3BlbzE2aXNyZG4gbi5zaGVwaGFyZEBzaGVmZmllbGQuYWMudWs&tmsrc=n.shephard%40sheffield.ac.uk)
+If you aren't able to attend in person but would like to join the Journal Club you can do so using [Google
+Meet](https://meet.google.com/gie-oquw-mjk).
+
+## When
+
+2025-10-21 @ 13:00-14:00
+
+## Future Events
+
+To stay abreast of up-coming events you can either sign up to the [mailing
+list](https://groups.google.com/a/sheffield.ac.uk/g/reproducibilitea) or subscribe to the [RSS
+feed](https://reproducibilitea-sheffield.github.io/index.xml).
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
