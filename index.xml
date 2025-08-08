@@ -9,8 +9,57 @@
 <link>https://Reproducibilitea-Sheffield.github.io/</link>
 <atom:link href="https://Reproducibilitea-Sheffield.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>Details about the Sheffield Reproducibilitea Journal Club</description>
-<generator>quarto-1.7.31</generator>
-<lastBuildDate>Mon, 20 Jan 2025 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.7.33</generator>
+<lastBuildDate>Fri, 08 Aug 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Reproducibilitea 2025-10-21</title>
+  <link>https://Reproducibilitea-Sheffield.github.io/posts/2025-10-21/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://Reproducibilitea-Sheffield.github.io/posts/2025-10-21/open-development.jpg" class="img-fluid figure-img"></p>
+<figcaption>The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: <a href="https://doi.org/10.5281/zenodo.3332807">10.5281/zenodo.3332807</a></figcaption>
+</figure>
+</div>
+<section id="what" class="level2">
+<h2 class="anchored" data-anchor-id="what">What</h2>
+<p>The chosen article that we will review and discuss is…</p>
+<ul>
+<li><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/asi.22634">The conundrum of sharing research data</a> (<a href="https://doi.org/10.1002/asi.22634">doi:10.1002/asi.22634</a>)</li>
+</ul>
+<blockquote class="blockquote">
+<p>Researchers are producing an unprecedented deluge of data by using new methods and instrumentation. Others may wish to mine these data for new discoveries and innovations. However, research data are not readily available as sharing is common in only a few fields such as astronomy and genomics. Data sharing practices in other fields vary widely. Moreover, research data take many forms, are handled in many ways, using many approaches, and often are difficult to interpret once removed from their initial context. Data sharing is thus a conundrum. Four rationales for sharing data are examined, drawing examples from the sciences, social sciences, and humanities: (1) to reproduce or to verify research, (2) to make results of publicly funded research available to the public, (3) to enable others to ask new questions of extant data, and (4) to advance the state of research and innovation. These rationales differ by the arguments for sharing, by beneficiaries, and by the motivations and incentives of the many stakeholders involved. The challenges are to understand which data might be shared, by whom, with whom, under what conditions, why, and to what effects. Answers will inform data policy and practice.</p>
+</blockquote>
+<p><a href="https://www.shu.ac.uk/about-us/our-people/staff-profiles/ester-ehiyazaryan-white">Dr Ester Ehiyazaryan-White, Senior Lecturer in Childhood Studies</a> will take us through this paper highlighting some salient points and opening discussion.</p>
+</section>
+<section id="where" class="level2">
+<h2 class="anchored" data-anchor-id="where">Where</h2>
+<p>This event will be hybrid, if you wish to attend in person we will be meeting in Room 12.1.01 (Level 1) of the <a href="https://www.openstreetmap.org/way/104031232">Charles Street Building</a>. Add the event to your Google Calendar using this <a href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=MjVraDQ2bjJvM3NkMTNkM3BlbzE2aXNyZG4gbi5zaGVwaGFyZEBzaGVmZmllbGQuYWMudWs&amp;tmsrc=n.shephard%40sheffield.ac.uk">link</a> If you aren’t able to attend in person but would like to join the Journal Club you can do so using <a href="https://meet.google.com/gie-oquw-mjk">Google Meet</a>.</p>
+</section>
+<section id="when" class="level2">
+<h2 class="anchored" data-anchor-id="when">When</h2>
+<p>2025-10-21 @ 13:00-14:00</p>
+</section>
+<section id="future-events" class="level2">
+<h2 class="anchored" data-anchor-id="future-events">Future Events</h2>
+<p>To stay abreast of up-coming events you can either sign up to the <a href="https://groups.google.com/a/sheffield.ac.uk/g/reproducibilitea">mailing list</a> or subscribe to the <a href="https://reproducibilitea-sheffield.github.io/index.xml">RSS feed</a>. ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────</p>
+
+
+</section>
+
+ ]]></description>
+  <category>reproducibilitea</category>
+  <category>reproducibility</category>
+  <category>sheffield</category>
+  <guid>https://Reproducibilitea-Sheffield.github.io/posts/2025-10-21/</guid>
+  <pubDate>Fri, 08 Aug 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://Reproducibilitea-Sheffield.github.io/posts/2025-10-21/open-development.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Reproducibilitea 2025-03-03</title>
   <link>https://Reproducibilitea-Sheffield.github.io/posts/2025-03-03/</link>
