@@ -1,63 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://Reproducibilitea-Sheffield.github.io/posts/2025-01-29/index.html</loc>
-    <lastmod>2025-08-08T12:04:22.059Z</lastmod>
+    <loc>https://Reproducibilitea-Sheffield.github.io/index.html</loc>
+    <lastmod>2026-04-22T10:39:12.672Z</lastmod>
   </url>
   <url>
     <loc>https://Reproducibilitea-Sheffield.github.io/posts/2024-11-28/index.html</loc>
-    <lastmod>2025-08-08T12:04:22.059Z</lastmod>
-  </url>
-  <url>
-    <loc>https://Reproducibilitea-Sheffield.github.io/posts/2024-05-16/index.html</loc>
-    <lastmod>2025-08-08T12:04:22.059Z</lastmod>
-  </url>
-  <url>
-    <loc>https://Reproducibilitea-Sheffield.github.io/posts/2024-03-26/index.html</loc>
-    <lastmod>2025-08-08T12:04:22.059Z</lastmod>
+    <lastmod>2026-04-22T10:39:12.673Z</lastmod>
   </url>
   <url>
     <loc>https://Reproducibilitea-Sheffield.github.io/posts/2024-01-18/index.html</loc>
-    <lastmod>2025-08-08T12:04:22.059Z</lastmod>
-  </url>
-  <url>
-    <loc>https://Reproducibilitea-Sheffield.github.io/posts/2025-10-21/index.html</loc>
-    <lastmod>2025-08-08T12:04:22.082Z</lastmod>
-  </url>
-  <url>
-    <loc>https://Reproducibilitea-Sheffield.github.io/index.html</loc>
-    <lastmod>2025-08-08T12:04:22.058Z</lastmod>
-  </url>
-  <url>
-    <loc>https://Reproducibilitea-Sheffield.github.io/about.html</loc>
-    <lastmod>2025-08-08T12:04:22.056Z</lastmod>
-  </url>
-  <url>
-    <loc>https://Reproducibilitea-Sheffield.github.io/links.html</loc>
-    <lastmod>2025-08-08T12:04:22.058Z</lastmod>
-  </url>
-  <url>
-    <loc>https://Reproducibilitea-Sheffield.github.io/posts/2024-04-18/index.html</loc>
-    <lastmod>2025-08-08T12:04:22.059Z</lastmod>
-  </url>
-  <url>
-    <loc>https://Reproducibilitea-Sheffield.github.io/posts/2024-07-12/index.html</loc>
-    <lastmod>2025-08-08T12:04:22.059Z</lastmod>
-  </url>
-  <url>
-    <loc>https://Reproducibilitea-Sheffield.github.io/posts/2025-03-03/index.html</loc>
-    <lastmod>2025-08-08T12:04:22.059Z</lastmod>
-  </url>
-  <url>
-    <loc>https://Reproducibilitea-Sheffield.github.io/posts/2024-10-24/index.html</loc>
-    <lastmod>2025-08-08T12:04:22.059Z</lastmod>
+    <lastmod>2026-04-22T10:39:12.673Z</lastmod>
   </url>
   <url>
     <loc>https://Reproducibilitea-Sheffield.github.io/posts/2023-12/index.html</loc>
-    <lastmod>2025-08-08T12:04:22.058Z</lastmod>
+    <lastmod>2026-04-22T10:39:12.673Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Reproducibilitea-Sheffield.github.io/posts/2025-01-29/index.html</loc>
+    <lastmod>2026-04-22T10:39:12.673Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Reproducibilitea-Sheffield.github.io/posts/2024-04-18/index.html</loc>
+    <lastmod>2026-04-22T10:39:12.673Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Reproducibilitea-Sheffield.github.io/posts/2026-05-13/index.html</loc>
+    <lastmod>2026-04-22T10:39:12.715Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Reproducibilitea-Sheffield.github.io/posts/2025-10-21/index.html</loc>
+    <lastmod>2026-04-22T10:39:12.694Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Reproducibilitea-Sheffield.github.io/links.html</loc>
+    <lastmod>2026-04-22T10:39:12.673Z</lastmod>
   </url>
   <url>
     <loc>https://Reproducibilitea-Sheffield.github.io/posts/reboot/index.html</loc>
-    <lastmod>2025-08-08T12:04:22.104Z</lastmod>
+    <lastmod>2026-04-22T10:39:12.740Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Reproducibilitea-Sheffield.github.io/posts/2025-03-03/index.html</loc>
+    <lastmod>2026-04-22T10:39:12.674Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Reproducibilitea-Sheffield.github.io/posts/2024-03-26/index.html</loc>
+    <lastmod>2026-04-22T10:39:12.673Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Reproducibilitea-Sheffield.github.io/posts/2024-10-24/index.html</loc>
+    <lastmod>2026-04-22T10:39:12.673Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Reproducibilitea-Sheffield.github.io/posts/2024-05-16/index.html</loc>
+    <lastmod>2026-04-22T10:39:12.673Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Reproducibilitea-Sheffield.github.io/posts/2024-07-12/index.html</loc>
+    <lastmod>2026-04-22T10:39:12.673Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Reproducibilitea-Sheffield.github.io/about.html</loc>
+    <lastmod>2026-04-22T10:39:12.671Z</lastmod>
   </url>
 </urlset>

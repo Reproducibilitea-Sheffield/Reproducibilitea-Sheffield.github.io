@@ -9,8 +9,57 @@
 <link>https://Reproducibilitea-Sheffield.github.io/</link>
 <atom:link href="https://Reproducibilitea-Sheffield.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>Details about the Sheffield Reproducibilitea Journal Club</description>
-<generator>quarto-1.7.33</generator>
-<lastBuildDate>Fri, 08 Aug 2025 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.9.37</generator>
+<lastBuildDate>Wed, 22 Apr 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Reproducibilitea 2026-05-13</title>
+  <link>https://Reproducibilitea-Sheffield.github.io/posts/2026-05-13/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://Reproducibilitea-Sheffield.github.io/posts/2026-05-13/performative-wokeness-2.jpg" class="img-fluid figure-img"></p>
+<figcaption>The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: <a href="https://doi.org/10.5281/zenodo.3332807">10.5281/zenodo.3332807</a></figcaption>
+</figure>
+</div>
+<section id="what" class="level2">
+<h2 class="anchored" data-anchor-id="what">What</h2>
+<p>The chosen article that we will review and discuss is…</p>
+<ul>
+<li><a href="https://osf.io/preprints/socarxiv/nphjc_v1">Getting Creeped Out? Open Science, Qualitative Methods, and the Dangers of Positivism Creep</a> (<a href="https://doi.org/10.31235/osf.io/nphjc_v1">doi:10.31235/osf.io/nphjc_v1</a>)</li>
+</ul>
+<blockquote class="blockquote">
+<p>Many developments to reform the research landscape have occurred over the past decade. These changes have been made with broad goals to improve the ‘openness’ of research and often assumed to be ‘methodologically -agnostic’; that is, they ostensibly have benefits for all researchers occupying all epistemological and methodological positions. ‘Open science’ initiatives such as study pre-registration (i.e., specifying research aims and analytical plan ahead of data access), open data sharing, open-access publication, and open materials sharing are becoming increasingly mainstream across many fields within social research and the natural sciences. While there has been much criticism of these interventions, largely from the qualitative research community, we want to draw attention to a troubling trend in the promotion of open science: the leaking of standards relevant only to quantitative research to all paradigms. Or, as others refer to it, “positivism creep”. Here, we situate positivism creep (i.e., the creeping of positivist conventions to all research) within research policy, we highlight its increasing prevalence within open science reforms, and we warn against a future which could alienate many non-positivist scholars. We argue that the primary framing of open science as the pursuit of reproducibility and objectivity risks promoting positivism creep in the social sciences and humanities. In particular, we suggest that overly strict open research requirements placed by funders may reduce the range and variety of epistemological positions that can be taken by researchers, with particularly deleterious effects for qualitative researchers.</p>
+</blockquote>
+<p><a href="https://morphss.hcommons.org/about-the-team/">Dr Jenni Adams</a> will take us through this paper highlighting some salient points and opening discussion.</p>
+</section>
+<section id="where" class="level2">
+<h2 class="anchored" data-anchor-id="where">Where</h2>
+<p>This event will be hybrid, if you wish to attend in person we will be meeting in Room 12.1.01 (Level 1) of the <a href="https://www.openstreetmap.org/way/16165929">Arts Tower</a>. Add the event to your Google Calendar using this <a href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NTMxYmZsZnM5NTlncWVncnM4cDh0MzFzZ2kgbi5zaGVwaGFyZEBzaGVmZmllbGQuYWMudWs&amp;tmsrc=n.shephard%40sheffield.ac.uk">link</a> If you aren’t able to attend in person but would like to join the Journal Club you can do so using <a href="https://meet.google.com/ecz-fgde-jsg">Google Meet</a>.</p>
+</section>
+<section id="when" class="level2">
+<h2 class="anchored" data-anchor-id="when">When</h2>
+<p>2026-05-13 @ 13:00-14:00</p>
+</section>
+<section id="future-events" class="level2">
+<h2 class="anchored" data-anchor-id="future-events">Future Events</h2>
+<p>To stay abreast of up-coming events you can either sign up to the <a href="https://groups.google.com/a/sheffield.ac.uk/g/reproducibilitea">mailing list</a> or subscribe to the <a href="https://reproducibilitea-sheffield.github.io/index.xml">RSS feed</a>. ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────</p>
+
+
+</section>
+
+ ]]></description>
+  <category>reproducibilitea</category>
+  <category>reproducibility</category>
+  <category>sheffield</category>
+  <guid>https://Reproducibilitea-Sheffield.github.io/posts/2026-05-13/</guid>
+  <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://Reproducibilitea-Sheffield.github.io/posts/2026-05-13/performative-wokeness-2.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Reproducibilitea 2025-10-21</title>
   <link>https://Reproducibilitea-Sheffield.github.io/posts/2025-10-21/</link>
