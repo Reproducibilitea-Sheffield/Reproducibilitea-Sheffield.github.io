@@ -1,0 +1,65 @@
+---
+title: "Reproducibilitea 2026-05-13"
+date: "2026-04-22"
+categories: [reproducibilitea, reproducibility, sheffield]
+image: ./performative-wokeness-2.jpg
+from: markdown+emoji
+toc: true
+toc-depth: 4
+toc-location: right
+execute:
+  code_fold: true
+  code_link: true
+  code_tools: true
+  fig-cap-location: top
+  tbl-cap-location: top
+  warning: false
+---
+
+![The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI:
+[10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)](./performative-wokeness-2.jpg)
+
+## What
+
+The chosen article that we will review and discuss is...
+
+- [Getting Creeped Out? Open Science, Qualitative Methods, and the Dangers of Positivism Creep](https://osf.io/preprints/socarxiv/nphjc_v1)
+  ([doi:10.31235/osf.io/nphjc_v1](https://doi.org/10.31235/osf.io/nphjc_v1))
+
+> Many developments to reform the research landscape have occurred over the past decade. These changes have been made
+> with broad goals to improve the ‘openness’ of research and often assumed to be ‘methodologically -agnostic’; that is,
+> they ostensibly have benefits for all researchers occupying all epistemological and methodological positions. ‘Open
+> science’ initiatives such as study pre-registration (i.e., specifying research aims and analytical plan ahead of data
+> access), open data sharing, open-access publication,  and open materials sharing are becoming increasingly mainstream
+> across many fields within social research and the natural sciences. While there has been much criticism of these
+> interventions, largely from the qualitative research community, we want to draw attention to a troubling trend in the
+> promotion of open science: the leaking of standards relevant only to quantitative research to all paradigms. Or, as
+> others refer to it, “positivism creep”. Here, we situate positivism creep (i.e., the creeping of positivist
+> conventions to all research) within research policy, we highlight its increasing prevalence within open science
+> reforms, and we warn against a future which could alienate many non-positivist scholars. We argue that the
+> primary framing of open science as the pursuit of reproducibility and objectivity risks promoting positivism creep in
+> the social sciences and humanities. In particular, we suggest that overly strict open research requirements placed by
+> funders may reduce the range and variety of epistemological positions that can be taken by researchers, with
+> particularly deleterious effects for qualitative researchers.
+
+[Dr Jenni Adams](https://morphss.hcommons.org/about-the-team/) will take us through this paper highlighting some salient points and opening discussion.
+
+## Where
+
+This event will be hybrid, if you wish to attend in person we will be meeting in Room 12.1.01 (Level 1) of the [Arts
+Tower](https://www.openstreetmap.org/way/16165929).
+Add the event to your Google Calendar using this
+[link](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NTMxYmZsZnM5NTlncWVncnM4cDh0MzFzZ2kgbi5zaGVwaGFyZEBzaGVmZmllbGQuYWMudWs&tmsrc=n.shephard%40sheffield.ac.uk)
+If you aren't able to attend in person but would like to join the Journal Club you can do so using [Google
+Meet](https://meet.google.com/ecz-fgde-jsg).
+
+## When
+
+2026-05-13 @ 13:00-14:00
+
+## Future Events
+
+To stay abreast of up-coming events you can either sign up to the [mailing
+list](https://groups.google.com/a/sheffield.ac.uk/g/reproducibilitea) or subscribe to the [RSS
+feed](https://reproducibilitea-sheffield.github.io/index.xml).
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────

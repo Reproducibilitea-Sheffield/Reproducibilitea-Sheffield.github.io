@@ -45,3 +45,5 @@ vignettes/*.pdf
 # Quarto
 /.quarto/
 /_site/
+
+**/*.quarto_ipynb
