@@ -1,0 +1,57 @@
+---
+title: "Reproducibilitea 2026-07-22"
+date: "2026-06-23"
+categories: [reproducibilitea, reproducibility, sheffield]
+image: ./accessible-learning-paths.jpg
+from: markdown+emoji
+toc: true
+toc-depth: 4
+toc-location: right
+execute:
+  code_fold: true
+  code_link: true
+  code_tools: true
+  fig-cap-location: top
+  tbl-cap-location: top
+  warning: false
+---
+
+![The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI:
+[10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)](./accessible-learning-paths.jpg)
+
+## What
+
+The chosen article that we will review and discuss is...
+
+- [Petrescu, D. (2005). Losing control, keeping desire. In P. Blundell Jones, D. Petrescu, & J. Till (Eds.),
+  Architecture and participation (pp. 43–64). London: Spon  Press](https://www.researchgate.net/publication/240917065_Losing_control_keeping_desire?enrichId=rgreq-e99e3935932ea6590ba4b7be1d69dc92-XXX&enrichSource=Y292ZXJQYWdlOzI0MDkxNzA2NTtBUzo0MjI2NDMxNjY5MTI1MTZAMTQ3Nzc3NzM5MTgyOQ%3D%3D&el=1_x_3)
+
+> In Losing Control, Keeping Desire, Doina Petrescu explores how meaningful participation emerges when experts
+> relinquish some control and create space for collective agency and shared decision-making. This discussion offers an
+> interesting lens through which to examine open research practices, highlighting themes of collaboration,
+> co-production, transparency, and shared ownership of knowledge. The session will consider how these ideas relate to
+> reproducibility, participatory research, citizen science, and the broader movement towards more open and inclusive
+> research cultures.
+
+[Domi Smithson](https://profiles.shu.ac.uk/9674-domi-smithson) will take us through this paper highlighting some salient points and opening discussion.
+
+## Where
+
+This event will be hybrid, if you wish to attend in person we will be meeting in Room 04 06A (Level 4) of the [Langsett
+Building, Sheffield Hallam University Campus](https://www.openstreetmap.org/way/1329419929).
+
+Add the event to your Google Calendar using this
+[link](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MWM4cGJ1Y2xzdWc1bTV0NjRiNTgxNTlhcWQgbi5zaGVwaGFyZEBzaGVmZmllbGQuYWMudWs&tmsrc=n.shephard%40sheffield.ac.uk).
+
+If you aren't able to attend in person but would like to join the Journal Club you can do so using [Google
+Meet](https://meet.google.com/jbb-xxtd-cmj).
+
+## When
+
+2026-07-22 @ 12:00-13:00
+
+## Future Events
+
+To stay abreast of up-coming events you can either sign up to the [mailing
+list](https://groups.google.com/a/sheffield.ac.uk/g/reproducibilitea) or subscribe to the [RSS
+feed](https://reproducibilitea-sheffield.github.io/index.xml).
